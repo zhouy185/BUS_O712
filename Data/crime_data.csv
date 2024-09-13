@@ -1,0 +1,51 @@
+,State,Population,Murder.Rate,Grad.Rate,Abbreviation,Region
+0,Alabama,4779736,5.7,72,AL,4
+1,Alaska,710231,5.6,68,AK,3
+2,Arizona,6392017,4.7,78,AZ,3
+3,Arkansas,2915918,5.6,81,AR,4
+4,California,37253956,4.4,76,CA,3
+5,Colorado,5029196,2.8,74,CO,3
+6,Connecticut,3574097,2.4,83,CT,1
+7,Delaware,897934,5.8,78,DE,4
+8,Florida,18801310,5.8,71,FL,4
+9,Georgia,9687653,5.7,67,GA,4
+10,Hawaii,1360301,1.8,80,HI,3
+11,Idaho,1567582,2.0,93,ID,3
+12,Illinois,12830632,5.3,84,IL,2
+13,Indiana,6483802,5.0,86,IN,2
+14,Iowa,3046355,1.9,88,IA,2
+15,Kansas,2853118,3.1,83,KS,2
+16,Kentucky,4339367,3.6,77,KY,4
+17,Louisiana,4533372,10.3,71,LA,4
+18,Maine,1328361,1.6,84,ME,1
+19,Maryland,5773552,6.1,83,MD,4
+20,Massachusetts,6547629,2.0,83,MA,1
+21,Michigan,9883640,5.4,74,MI,2
+22,Minnesota,5303925,1.6,77,MN,2
+23,Mississippi,2967297,8.6,75,MS,4
+24,Missouri,5988927,6.6,81,MO,2
+25,Montana,989415,3.6,82,MT,3
+26,Nebraska,1826341,2.9,86,NE,2
+27,Nevada,2700551,6.0,62,NV,3
+28,New Hampshire,1316470,0.9,86,NH,1
+29,New Jersey,8791894,3.9,83,NJ,1
+30,New Mexico,2059179,4.8,63,NM,3
+31,New York,19378102,3.1,77,NY,1
+32,North Carolina,9535483,5.1,78,NC,4
+33,North Dakota,672591,3.0,86,ND,2
+34,Ohio,11536504,4.0,80,OH,2
+35,Oklahoma,3751351,4.5,74,OK,4
+36,Oregon,3831074,2.0,68,OR,3
+37,Pennsylvania,12702379,4.8,83,PA,1
+38,Rhode Island,1052567,2.4,77,RI,1
+39,South Carolina,4625364,6.4,74,SC,4
+40,South Dakota,814180,2.3,83,SD,2
+41,Tennessee,6346105,5.7,86,TN,4
+42,Texas,25145561,4.4,86,TX,4
+43,Utah,2763885,2.3,76,UT,3
+44,Vermont,625741,1.6,87,VT,1
+45,Virginia,8001024,4.1,82,VA,4
+46,Washington,6724540,2.5,76,WA,3
+47,West Virginia,1852994,4.0,78,WV,4
+48,Wisconsin,5686986,2.9,87,WI,2
+49,Wyoming,563626,2.7,80,WY,3
