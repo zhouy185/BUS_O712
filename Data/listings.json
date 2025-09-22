@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "city": "Toronto",
+    "neighborhood": "Kensington",
+    "property_type": "Loft",
+    "bedrooms": 1,
+    "price_per_night": 145,
+    "review_score": 4.86,
+    "host": {"id": 9001, "name": "Alice Chen", "is_superhost": true}
+  },
+  {
+    "id": 102,
+    "city": "Toronto",
+    "neighborhood": "Leslieville",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "price_per_night": 175,
+    "review_score": 4.72,
+    "host": {"id": 9002, "name": "Ben Park", "is_superhost": false}
+  },
+  {
+    "id": 103,
+    "city": "Hamilton",
+    "neighborhood": "Corktown",
+    "property_type": "House",
+    "bedrooms": 3,
+    "price_per_night": 210,
+    "review_score": 4.90,
+    "host": {"id": 9003, "name": "Rita Diaz", "is_superhost": true}
+  }
+]
