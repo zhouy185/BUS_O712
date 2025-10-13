@@ -1,0 +1,1507 @@
+type,id,name,lat,lon,cuisine,brand
+node,48553537,Second Cup,43.6772079,-79.3528895,coffee_shop,Second Cup
+node,53542349,Nord Lyon Cafe,43.6500196,-79.3909545,,
+node,54965507,Tim Hortons,43.6523976,-79.4062653,coffee_shop,Tim Hortons
+node,59566254,Tim Hortons,43.6434725,-79.3916769,coffee_shop,Tim Hortons
+node,59566311,Starbucks,43.6453549,-79.3894561,coffee_shop,Starbucks
+node,60930953,Tim Hortons,43.6681371,-79.3976093,coffee_shop,Tim Hortons
+node,60930956,Starbucks,43.670435,-79.3936342,coffee_shop,Starbucks
+node,60931257,Starbucks,43.6705964,-79.3900893,coffee_shop,Starbucks
+node,67344938,Emily Rose Cafe,43.6675085,-79.4146202,,
+node,79877659,Tim Hortons,43.7121778,-79.5348397,coffee_shop,Tim Hortons
+node,95378352,Tim Hortons,43.6646502,-79.3841706,coffee_shop,Tim Hortons
+node,176544089,Tim Hortons,43.6581672,-79.3996143,coffee_shop,Tim Hortons
+node,246694096,Tim Hortons,43.6611444,-79.383289,coffee_shop,Tim Hortons
+node,247134293,Tim Hortons,43.5929034,-79.5390715,coffee_shop,Tim Hortons
+node,253433635,Tim Hortons,43.6567359,-79.3798973,coffee_shop,Tim Hortons
+node,253818647,Cafe AC,43.663001,-79.4012579,coffee_shop,
+node,260339225,Deco,43.6655003,-79.4639576,,
+node,276474692,Mofer Coffee Front St,43.6483753,-79.3735627,coffee_shop,
+node,276476517,Starbucks,43.6492696,-79.3782176,coffee_shop,Starbucks
+node,277040113,Mofer Coffee,43.6832088,-79.3233512,,
+node,278103212,Tim Hortons,43.6882494,-79.3004934,coffee_shop,Tim Hortons
+node,279641656,Tim Hortons,43.6837787,-79.3223497,coffee_shop,Tim Hortons
+node,280493843,Good Earth Coffeehouse,43.6650622,-79.3844475,,
+node,280889469,Tim Hortons,43.6594983,-79.390945,coffee_shop,Tim Hortons
+node,281361786,Ali Basha Cafe,43.6567243,-79.3754525,,
+node,281664166,Lettieri,43.6505655,-79.3772703,,
+node,281664356,Tim Hortons,43.6495049,-79.3768921,coffee_shop,Tim Hortons
+node,281665202,Chatime,43.6503925,-79.371651,bubble_tea,Chatime
+node,281668247,Tim Hortons,43.6479642,-79.3761252,coffee_shop,Tim Hortons
+node,281669476,Tim Hortons,43.6514399,-79.379004,coffee_shop,Tim Hortons
+node,288058001,Starbucks,43.7040624,-79.4118353,coffee_shop,Starbucks
+node,295319870,Starbucks,43.6713495,-79.380646,coffee_shop,Starbucks
+node,302045033,Tim Hortons,43.7989574,-79.3696355,coffee_shop,Tim Hortons
+node,302045062,Leslie Cafe,43.7910039,-79.3671237,,
+node,302416906,Tim Hortons,43.805601,-79.3842086,coffee_shop,Tim Hortons
+node,304899718,Tim Hortons,43.666716,-79.4041802,coffee_shop,Tim Hortons
+node,304899767,Second Cup,43.6633456,-79.4017693,coffee_shop,Second Cup
+node,305489899,Coffee Time,43.7874154,-79.2671597,coffee_shop,Coffee Time
+node,306328612,Tim Hortons,43.6721688,-79.3769798,coffee_shop,Tim Hortons
+node,307781391,Bar 700,43.715464,-79.4904091,,
+node,308447579,Family Bakery Cafe,43.6923298,-79.3158613,,
+node,308697096,Starbucks,43.6681256,-79.3886125,coffee_shop,Starbucks
+node,308808289,,43.6540899,-79.3929752,closed,
+node,310142481,Tim Hortons,43.7132445,-79.5802037,coffee_shop,Tim Hortons
+node,310957327,Coffee Time,43.6862265,-79.3111587,coffee_shop,Coffee Time
+node,314935050,Starbucks,43.7048071,-79.3615832,coffee_shop,Starbucks
+node,315645175,Country Style,43.6674983,-79.3119364,coffee_shop,Country Style
+node,315662287,Espro,43.6711212,-79.2956121,coffee_shop;crepe,
+node,331078296,Tim Hortons,43.6798374,-79.3450512,coffee_shop,Tim Hortons
+node,332338882,Tim Hortons,43.6690141,-79.389389,coffee_shop,Tim Hortons
+node,333553037,Second Cup,43.6625562,-79.3988018,coffee_shop,Second Cup
+node,333553179,Second Cup,43.6592607,-79.3969162,coffee_shop,Second Cup
+node,333553652,Second Cup,43.6664023,-79.3989301,coffee_shop,Second Cup
+node,339551811,Coffee Time,43.7317677,-79.4591795,coffee_shop,Coffee Time
+node,343275864,Artistic Grounds,43.6467763,-79.4035602,,
+node,344473397,Incha,43.6595884,-79.3850265,bubble_tea,
+node,354973069,Second Cup,43.6446134,-79.3881299,coffee_shop,Second Cup
+node,354974891,Coffee Time,43.6525776,-79.3986732,coffee_shop,Coffee Time
+node,366654928,Tim Hortons,43.7930602,-79.3545393,coffee_shop,Tim Hortons
+node,367757826,Tim Hortons,43.7561075,-79.5162232,coffee_shop,Tim Hortons
+node,370214388,Second Cup,43.6474776,-79.5116318,coffee_shop,Second Cup
+node,373153520,Tim Hortons,43.7729662,-79.507711,coffee_shop,Tim Hortons
+node,380038289,True Love Cafe,43.6584295,-79.3713273,,
+node,380039980,Tim Hortons,43.6531804,-79.368843,coffee_shop,Tim Hortons
+node,380040031,The Black Canary Espresso Bar,43.6518751,-79.3683156,,
+node,380041239,Au Pain Doré Bakery,43.6487095,-79.3727108,coffee_shop,
+node,380042650,Starbucks,43.6461941,-79.3800608,coffee_shop,Starbucks
+node,382800173,Tim Hortons,43.737047,-79.2179255,coffee_shop,Tim Hortons
+node,382893466,Tim Hortons,43.7988794,-79.2418071,coffee_shop,Tim Hortons
+node,383551142,Tim Hortons,43.6833977,-79.56452,coffee_shop,Tim Hortons
+node,383630028,Tim Hortons,43.6957548,-79.4491365,coffee_shop,Tim Hortons
+node,384751683,Tim Hortons,43.7574238,-79.2292345,coffee_shop,Tim Hortons
+node,387449942,Real Fruit Bubble Tea,43.6642478,-79.415804,bubble_tea,Real Fruit Bubble Tea
+node,387456095,Snakes & Lattes,43.6648174,-79.4132102,,
+node,390360901,Starbucks,43.7691253,-79.3866003,coffee_shop,Starbucks
+node,390360902,Lettieri,43.7691839,-79.3840345,,
+node,390534329,Tim Hortons,43.6606025,-79.3833845,coffee_shop,Tim Hortons
+node,390997489,Pigeon Coffee,43.6470364,-79.3781441,coffee_shop,
+node,391086244,Kelly's Cafe,43.6649756,-79.3893858,,
+node,391090202,Tim Hortons,43.6646214,-79.3874964,coffee_shop,Tim Hortons
+node,391177053,Tim Hortons,43.6478593,-79.3845697,coffee_shop,Tim Hortons
+node,392095506,Second Cup,43.7473185,-79.3848843,coffee_shop,Second Cup
+node,392097955,Tim Hortons,43.7550408,-79.3515928,coffee_shop,Tim Hortons
+node,392098242,Tim Hortons,43.6984387,-79.3969693,coffee_shop,Tim Hortons
+node,392157020,Starbucks,43.7051764,-79.3747198,coffee_shop,Starbucks
+node,392509159,Tim Hortons,43.7063461,-79.3980251,coffee_shop,Tim Hortons
+node,400710181,Second Cup,43.6525323,-79.3801612,coffee_shop,Second Cup
+node,400914580,Second Cup,43.6529779,-79.3775788,coffee_shop,Second Cup
+node,400917823,Starbucks,43.6523258,-79.3782736,coffee_shop,Starbucks
+node,400943529,Starbucks,43.6565629,-79.3804948,coffee_shop,Starbucks
+node,406932478,Tim Hortons,43.7251722,-79.4492251,coffee_shop,Tim Hortons
+node,409183194,Jjin Toast,43.6653528,-79.4114478,,
+node,410375784,Tim Hortons,43.7259831,-79.4824183,coffee_shop,Tim Hortons
+node,410798906,Coffee Time,43.7676749,-79.4742766,coffee_shop,Coffee Time
+node,410801078,Starbucks,43.779878,-79.4163398,coffee_shop,Starbucks
+node,410953413,Tim Hortons,43.676668,-79.4115944,coffee_shop,Tim Hortons
+node,415843942,Starbucks,43.6396349,-79.5374684,coffee_shop,Starbucks
+node,416731442,Tim Hortons,43.6497393,-79.3872682,coffee_shop,Tim Hortons
+node,417232579,Starbucks,43.7225487,-79.415293,coffee_shop,Starbucks
+node,418868604,Tim Hortons,43.6383789,-79.5387868,coffee_shop,Tim Hortons
+node,420542926,Athens Pastries,43.677997,-79.3488265,,
+node,420542932,Fresh,43.6774638,-79.3532242,,
+node,420549580,Starbucks,43.6400113,-79.3809763,coffee_shop,Starbucks
+node,427687185,Tim Hortons,43.770004,-79.2603646,coffee_shop,Tim Hortons
+node,432773382,Tim Hortons,43.7008268,-79.5117018,coffee_shop,Tim Hortons
+node,432777546,Tim Hortons,43.6060646,-79.5205443,coffee_shop,Tim Hortons
+node,436015131,Tim Hortons,43.8346956,-79.2570189,coffee_shop,Tim Hortons
+node,436893986,Country Style,43.7804646,-79.2057573,coffee_shop,Country Style
+node,436904205,Coffee Time,43.7740499,-79.2411899,coffee_shop,Coffee Time
+node,436926526,Tim Hortons,43.7852497,-79.3100838,coffee_shop,Tim Hortons
+node,436950518,Tim Hortons,43.7270683,-79.3271912,coffee_shop,Tim Hortons
+node,437988608,Tim Hortons,43.7582682,-79.3124216,coffee_shop,Tim Hortons
+node,437992167,Starbucks,43.7722704,-79.3212145,coffee_shop,Starbucks
+node,441031354,Red Rocket Coffee,43.6824668,-79.3284933,,
+node,453882215,Starbucks,43.7682873,-79.4128946,coffee_shop,Starbucks
+node,461587766,Tim Hortons,43.7807843,-79.415514,coffee_shop,Tim Hortons
+node,468417887,Starbucks,43.6645938,-79.3998389,coffee_shop,Starbucks
+node,470069870,Fantail,43.6492269,-79.4500005,coffee_shop,
+node,473533899,Starbucks,43.7837722,-79.2532651,coffee_shop,Starbucks
+node,474956795,Mr. Beans,43.7795998,-79.1378601,,
+node,474958377,Tim Hortons,43.8018007,-79.1991102,coffee_shop,Tim Hortons
+node,474960363,Tim Hortons,43.7012922,-79.4524243,coffee_shop,Tim Hortons
+node,474967370,Tim Hortons,43.7728857,-79.4423413,coffee_shop,Tim Hortons
+node,474968531,Coffee Time,43.7871853,-79.4176059,coffee_shop,Coffee Time
+node,475881505,Balzac's Coffee,43.6497558,-79.3591233,,
+node,491599549,Second Cup,43.6976755,-79.3962468,coffee_shop,Second Cup
+node,491912606,Aroma Espresso Bar,43.6421888,-79.3836179,coffee_shop,Aroma Espresso Bar
+node,495306722,Starbucks Reserve,43.735945,-79.3441736,coffee_shop,Starbucks Reserve
+node,502049924,Tim Hortons,43.6779919,-79.4435872,coffee_shop,Tim Hortons
+node,502783306,Tim Hortons,43.7642151,-79.4888265,coffee_shop,Tim Hortons
+node,515553262,UB Social,43.665353,-79.4697346,,
+node,515618887,Timothy's,43.6513903,-79.3766167,coffee_shop,Timothy's
+node,516605608,Tim Hortons,43.6508685,-79.4396329,coffee_shop,Tim Hortons
+node,517226078,Second Cup,43.7287178,-79.402946,coffee_shop,Second Cup
+node,517226081,Starbucks,43.7298203,-79.4036331,coffee_shop,Starbucks
+node,517227450,Coffee Time,43.7321131,-79.403765,coffee_shop,Coffee Time
+node,518259998,Cherry Bomb,43.6414827,-79.4470227,coffee_shop,
+node,520060495,Brownsline Donuts,43.6079228,-79.5483125,,
+node,520390589,Tim Hortons,43.7341179,-79.3435326,coffee_shop,Tim Hortons
+node,524113889,Tim Hortons,43.7094713,-79.3987105,coffee_shop,Tim Hortons
+node,524114011,Starbucks,43.71103,-79.39907,coffee_shop,Starbucks
+node,524114221,Second Cup,43.714643,-79.40026,coffee_shop,Second Cup
+node,524141354,Tim Hortons,43.6516691,-79.3821506,coffee_shop,Tim Hortons
+node,524150960,Tim Hortons,43.6529616,-79.3970717,coffee_shop,Tim Hortons
+node,527229212,Tim Hortons,43.6469999,-79.4043692,coffee_shop,Tim Hortons
+node,530715671,Malta Bake Shop,43.6656665,-79.4785823,,
+node,530783844,Sava Crepes & Coffee,43.6458514,-79.4487121,crepe,
+node,534354088,Moonbean,43.6542053,-79.4001807,coffee_shop,
+node,535026375,Tim Hortons,43.7007507,-79.4274802,coffee_shop,Tim Hortons
+node,535031289,Tim Hortons,43.6466726,-79.513683,coffee_shop,Tim Hortons
+node,538159932,Starbucks,43.6884833,-79.3940294,coffee_shop,Starbucks
+node,538159934,Tim Hortons,43.6894381,-79.3944682,coffee_shop,Tim Hortons
+node,538343127,Tim Hortons,43.6710118,-79.3825668,coffee_shop,Tim Hortons
+node,544554088,,43.7414914,-79.2254579,,
+node,544664035,Starbucks,43.7287112,-79.4184049,coffee_shop,Starbucks
+node,547496827,Bready,43.6490269,-79.3837744,,
+node,547664088,Tutto Panino,43.6427972,-79.442294,italian,
+node,550881332,Fade In: Cafe,43.6835933,-79.2998111,,
+node,557804029,Thor Espresso,43.6507625,-79.3916295,coffee_shop,
+node,558628286,Cafe Serano,43.6902954,-79.3489387,,
+node,560227439,Mos Mos,43.6456604,-79.3829222,coffee_shop,
+node,560634455,The Quarry Café,43.6891685,-79.2780505,,
+node,560634706,Mos Mos,43.6416228,-79.3775687,coffee_shop,
+node,571545790,Le Gourmand Café,43.6709615,-79.3848484,,
+node,575209692,Tim Hortons,43.6545229,-79.3889763,coffee_shop,Tim Hortons
+node,575209695,Café Plenty,43.6547214,-79.389503,,
+node,575245014,Tim Hortons,43.6638258,-79.4183547,coffee_shop,Tim Hortons
+node,575245026,Simit-Chi,43.6656167,-79.4081497,turkish,
+node,575245041,M Chá Bar,43.6657274,-79.4078107,,
+node,575254646,Insomnia,43.6650738,-79.4107978,coffee_shop,Insomnia
+node,577454526,CoCo Fresh Tea & Juice,43.6667695,-79.3855169,bubble_tea,CoCo
+node,579253713,Olivia's Garden Cafe,43.6594376,-79.4205606,coffee_shop,
+node,579253994,Sam James Coffee Bar,43.6602502,-79.4154118,,
+node,583013820,Aroma Espresso Bar,43.6679232,-79.3889895,coffee_shop,Aroma Espresso Bar
+node,583868320,Timothy's,43.7062049,-79.389525,coffee_shop,Timothy's
+node,583868424,Thobors Café,43.704561,-79.388458,,
+node,584718478,Tim Hortons,43.6703594,-79.3883606,coffee_shop,Tim Hortons
+node,585467388,Treats,43.6609696,-79.3833621,,
+node,588338842,Treats,43.6532928,-79.3820137,,
+node,588647081,Cosette,43.6547043,-79.4592353,coffee_shop,
+node,592835839,Second Cup,43.6558052,-79.3809725,coffee_shop,Second Cup
+node,595418845,Second Cup,43.6652139,-79.3982087,coffee_shop,Second Cup
+node,595418851,Second Cup,43.67005,-79.389105,coffee_shop,Second Cup
+node,595418853,Holt Renfrew cafe,43.67017,-79.388812,,
+node,595418854,Starbucks,43.6705667,-79.3863475,coffee_shop,Starbucks
+node,595418855,Starbucks,43.6701575,-79.3884562,coffee_shop,Starbucks
+node,595495868,Tiger Sugar,43.6611056,-79.3828217,bubble_tea,Tiger Sugar
+node,595495953,Starbucks,43.6533147,-79.3804508,coffee_shop,Starbucks
+node,595496366,,43.6706289,-79.388743,,
+node,595986647,City Bakery & Cafe,43.6646725,-79.3864369,,
+node,595987862,Timothy's,43.6487551,-79.3909284,coffee_shop,Timothy's
+node,598103108,CoCo Fresh Tea & Juice,43.660226,-79.4352812,bubble_tea,CoCo
+node,605209089,Tim Hortons,43.6511225,-79.3799778,coffee_shop,Tim Hortons
+node,609279016,Tim Hortons,43.6496964,-79.3787352,coffee_shop,Tim Hortons
+node,610978001,Aroma Espresso Bar,43.7071306,-79.3987793,coffee_shop,Aroma Espresso Bar
+node,612012810,Second Cup,43.6429151,-79.3775037,coffee_shop,Second Cup
+node,618122806,Starbucks,43.6462048,-79.3920426,coffee_shop,Starbucks
+node,682232899,Tim Hortons,43.6712719,-79.3851272,coffee_shop,Tim Hortons
+node,689654097,Tim Hortons,43.656478,-79.3815968,coffee_shop,Tim Hortons
+node,701670546,Treats,43.6678979,-79.384519,,
+node,710732554,Bakery Garden Café,43.6832765,-79.4185495,coffee_shop,
+node,725883892,Starbucks,43.6708813,-79.384549,coffee_shop,Starbucks
+node,738174079,Starbucks,43.7698108,-79.3726518,coffee_shop,Starbucks
+node,752192433,Almond Butterfly,43.6629064,-79.4034864,coffee_shop,
+node,762599225,Claudia's Coffee,43.6653493,-79.4722116,coffee_shop,
+node,762599369,The Good Neighbour,43.6626046,-79.4710711,coffee_shop,
+node,766943637,Starbucks,43.6456215,-79.3864423,coffee_shop,Starbucks
+node,769509931,Starbucks,43.6552898,-79.3847765,coffee_shop,Starbucks
+node,773490272,Tim Hortons,43.6497867,-79.3820288,coffee_shop,Tim Hortons
+node,775895399,Second Cup,43.650274,-79.3797854,coffee_shop,Second Cup
+node,803149800,Chaveta Coffee,43.6703911,-79.4134379,coffee_shop,
+node,804332642,CoCo Fresh Tea & Juice,43.668711,-79.3373551,bubble_tea,CoCo
+node,805136833,Tim Hortons,43.668581,-79.3392242,coffee_shop,Tim Hortons
+node,817903484,Golden Gecko Coffee,43.6559551,-79.4873542,coffee_shop;tea,
+node,821376469,Tim Hortons,43.6600302,-79.3660122,coffee_shop,Tim Hortons
+node,845505194,18feet,43.6599251,-79.3916141,coffee_shop,
+node,859673954,Cafe 106,43.7061778,-79.5156037,,
+node,860764215,L'Espresso Bar Mercurio,43.6673858,-79.3992096,,
+node,860789206,Might and Main,43.6829644,-79.3000259,,
+node,902313985,Starbucks,43.6413061,-79.4147903,coffee_shop,Starbucks
+node,903729758,Starbucks,43.6398964,-79.4195988,coffee_shop,Starbucks
+node,911226019,Tim Hortons,43.7729031,-79.5049921,coffee_shop,Tim Hortons
+node,927210912,Country Style,43.7617521,-79.4081989,coffee_shop,Country Style
+node,938000027,Diabolos Coffee Bar,43.6630996,-79.3964649,coffee_shop,
+node,956093006,Starbucks,43.668865,-79.3886193,coffee_shop,Starbucks
+node,960085555,Dineen Outpost,43.6691106,-79.3367399,coffee_shop,
+node,978057325,Tim Hortons,43.7943668,-79.4197805,coffee_shop,Tim Hortons
+node,1071533939,Tim Hortons,43.6581901,-79.3902427,coffee_shop,Tim Hortons
+node,1111980964,The Campus Bubble Tea,43.7741985,-79.5017389,bubble_tea,
+node,1112701053,Tim Hortons,43.7742685,-79.4931718,coffee_shop,Tim Hortons
+node,1113726655,Timothy's,43.656009,-79.383069,coffee_shop,Timothy's
+node,1123685692,Boxcar Social,43.6816978,-79.3916485,,
+node,1125362818,Centre Cafe,43.7685497,-79.4149587,,
+node,1125366104,Second Cup,43.7684802,-79.4139685,coffee_shop,Second Cup
+node,1125538308,Tim Hortons,43.7655467,-79.4122561,coffee_shop,Tim Hortons
+node,1125689244,Tim Hortons,43.646969,-79.382683,coffee_shop,Tim Hortons
+node,1126756209,The Grind,43.670492,-79.3867844,,
+node,1128861518,Machi machi,43.665537,-79.3846437,bubble_tea,machi machi
+node,1128887410,,43.669957,-79.385356,,
+node,1131208946,Coffee Time,43.7559518,-79.4738907,coffee_shop,Coffee Time
+node,1132645804,Tim Hortons,43.645895,-79.38724,coffee_shop,Tim Hortons
+node,1132831117,Au Pain Doré,43.64622,-79.387645,coffee_shop,
+node,1133008875,Neo Coffee Bar,43.6481878,-79.3830275,coffee_shop,
+node,1136370098,Spring Cafe Bistro,43.6754313,-79.3885957,,
+node,1138447708,Cafe Landwer,43.688167,-79.4123657,,
+node,1138448667,Second Cup,43.6888025,-79.4125365,coffee_shop,Second Cup
+node,1138448894,Starbucks,43.6889734,-79.4130205,coffee_shop,Starbucks
+node,1141372266,Tim Hortons,43.6445941,-79.3871304,coffee_shop,Tim Hortons
+node,1141446130,Second Cup,43.6483382,-79.3790446,coffee_shop,Second Cup
+node,1142651778,Elizabeth Kay,43.6686475,-79.3880331,,
+node,1143293063,J.J's Deli & Cafe,43.6978065,-79.396267,,
+node,1147899070,Country Style,43.7508608,-79.4565463,coffee_shop,Country Style
+node,1155318667,Second Cup,43.6588796,-79.3941594,coffee_shop,Second Cup
+node,1184767509,Tim Hortons,43.6549661,-79.4346349,coffee_shop,Tim Hortons
+node,1191652313,Country Style,43.6604396,-79.3847134,coffee_shop,Country Style
+node,1199478672,Chatime,43.6671188,-79.4006999,bubble_tea,Chatime
+node,1207381491,York's Deli & Bakery,43.645877,-79.381163,,
+node,1240464085,Café Moroc,43.6479347,-79.374241,,
+node,1250412591,Timothy's,43.6603961,-79.384109,coffee_shop,Timothy's
+node,1257455642,Timothy's,43.656894,-79.389881,coffee_shop,Timothy's
+node,1268727154,Break Time Café,43.7315678,-79.2681398,,
+node,1282223043,Saving Gigi,43.6621075,-79.4245146,coffee_shop,
+node,1290829382,Charles Tea,43.6642963,-79.3844621,tea,
+node,1291986457,Starbucks,43.664996,-79.3804701,coffee_shop,Starbucks
+node,1292692950,Second Cup,43.7204293,-79.4303726,coffee_shop,Second Cup
+node,1309539412,Sugar Miracles Patisserie & Cafe,43.7167979,-79.4007116,coffee_shop,
+node,1328394870,Starbucks,43.6557356,-79.3826159,coffee_shop,Starbucks
+node,1329959190,Tim Hortons,43.6546095,-79.4197276,coffee_shop,Tim Hortons
+node,1329978502,Maderas,43.654745,-79.422977,coffee_shop,
+node,1353112102,Aroma Espresso Bar,43.649362,-79.380195,coffee_shop,Aroma Espresso Bar
+node,1372205244,The Alaska,43.6776132,-79.3899645,,
+node,1375337646,Red Rocket Coffee,43.6666397,-79.37605,,
+node,1383806262,Second Cup,43.6464533,-79.3898448,coffee_shop,Second Cup
+node,1385135235,Java Joe's,43.655284,-79.386618,,
+node,1386443355,Tim Hortons,43.7462229,-79.4090559,coffee_shop,Tim Hortons
+node,1392079265,Well & Better Coffee,43.7040768,-79.3886527,,
+node,1392114833,Sweet Shady Shack,43.708283,-79.391606,bubble_tea,
+node,1392126807,At Origin Cafe,43.70589,-79.388954,,
+node,1395441468,Mit Far Art Cafe Gallery,43.6783803,-79.3902782,,
+node,1408009291,Transform Community Cafe,43.701418,-79.397034,,
+node,1409153706,Cafe de Paris,43.6548604,-79.3872889,,
+node,1409158278,Uncle Tetsu's Japanese Angel Cafe,43.6549486,-79.3868744,japanese,
+node,1409158279,Presotea,43.6549586,-79.3868257,,
+node,1416644899,Tim Hortons,43.7810034,-79.4441663,coffee_shop,Tim Hortons
+node,1428306256,Starbucks,43.66866,-79.397431,coffee_shop,Starbucks
+node,1459286453,Tim Hortons,43.8035332,-79.288299,coffee_shop,Tim Hortons
+node,1459294435,Red Tea House,43.803479,-79.29736,,
+node,1502932783,Circus Coffee House,43.6855732,-79.3152784,coffee_shop,
+node,1512234067,Young Cafe,43.6504937,-79.3761533,,
+node,1561891124,Bagel Stop,43.656617,-79.380529,,
+node,1561891918,Timothy's,43.6567521,-79.38064,coffee_shop,Timothy's
+node,1628651624,Tim Hortons,43.6622249,-79.3768489,coffee_shop,Tim Hortons
+node,1629211380,Tim Hortons,43.6452406,-79.5232601,coffee_shop,Tim Hortons
+node,1654623920,Le Gourmand,43.6482511,-79.3964546,coffee_shop,
+node,1661255253,Lazy Daisy's,43.6726771,-79.3195697,coffee_shop,
+node,1677786348,Treats,43.65121,-79.375638,,
+node,1683555202,The Coffee Boutique,43.6504358,-79.4788435,,
+node,1685298853,Tim Hortons,43.6359683,-79.5205667,coffee_shop,Tim Hortons
+node,1689360895,Morning Glory,43.6538711,-79.3610808,coffee_shop,
+node,1696929321,Tim Hortons,43.8133211,-79.3434197,coffee_shop,Tim Hortons
+node,1707804706,Tim Hortons,43.79894,-79.1469848,coffee_shop,Tim Hortons
+node,1709372733,Starbucks,43.7059525,-79.389425,coffee_shop,Starbucks
+node,1713471317,La Boheme,43.7117283,-79.3991866,,
+node,1729671434,Tim Hortons,43.6988923,-79.3864057,coffee_shop,Tim Hortons
+node,1733861962,Mercury Espresso,43.660667,-79.3413718,coffee_shop,
+node,1749285875,Tim Hortons,43.7710661,-79.2783907,coffee_shop,Tim Hortons
+node,1749581878,Starbucks,43.7723557,-79.2829602,coffee_shop,Starbucks
+node,1749586918,,43.7728796,-79.2818403,,
+node,1780461013,Rachel's Coffee House,43.7009886,-79.3969349,coffee_shop,
+node,1849979600,Fair Grounds Organic,43.5924705,-79.5415365,coffee_shop,
+node,1854311801,Starbucks,43.6246628,-79.5082082,coffee_shop,Starbucks
+node,1854311824,Tim Hortons,43.624447,-79.5094099,coffee_shop,Tim Hortons
+node,1854454417,Coffee Balzac's Roasters,43.671642,-79.387189,,
+node,1870666627,Tim Hortons,43.6304115,-79.4805807,coffee_shop,Tim Hortons
+node,1883210246,Yellow Cup Cafe,43.6320224,-79.5519204,,
+node,1886072407,Mimico Coffee & Bagel,43.6150682,-79.4884055,,
+node,1887536043,Future Bakery Café,43.621168,-79.5477189,,
+node,1887557377,Lio’s Cafe,43.6223882,-79.5215354,,
+node,1888119202,Starbucks,43.7540997,-79.3517868,coffee_shop,Starbucks
+node,1888317908,Dark Horse Espresso Bar,43.6506474,-79.396862,coffee_shop,
+node,1901044187,Formocha Bubble Tea House,43.707082,-79.39598,,
+node,1928079645,Starbucks,43.7556199,-79.4403988,coffee_shop,Starbucks
+node,1995434979,Bar Moderno,43.6248369,-79.5102673,,
+node,1995435042,Cavallino Sports Cafe,43.6244554,-79.5119343,,
+node,1995539438,Buno Giorno Caffe & Panini,43.6228894,-79.5195451,,
+node,1995567787,Plaza Cafe,43.6216583,-79.5249346,,
+node,2001929179,Tim Hortons,43.6387619,-79.3802788,coffee_shop,Tim Hortons
+node,2010031816,Tim Hortons,43.7856178,-79.2791199,coffee_shop,Tim Hortons
+node,2018924094,% Arabica,43.724201,-79.4539523,coffee_shop,% Arabica
+node,2018929847,Starbucks,43.7249395,-79.45398,coffee_shop,Starbucks
+node,2021668241,Starbucks,43.6466013,-79.5140076,coffee_shop,Starbucks
+node,2021746165,Second Cup,43.6343047,-79.5198341,coffee_shop,Second Cup
+node,2028867960,Second Cup,43.6438877,-79.3878692,coffee_shop,Second Cup
+node,2052131145,Tim Hortons,43.646838,-79.3800158,coffee_shop,Tim Hortons
+node,2065725697,Café Dinah E.,43.706019,-79.40253,,
+node,2098720886,I deal coffee,43.7316167,-79.4040085,,
+node,2100342969,Tim Hortons,43.6519159,-79.4735041,coffee_shop,Tim Hortons
+node,2100496733,Dark Horse Espresso Bar,43.6477268,-79.3951782,coffee_shop,
+node,2112894611,Tim Hortons,43.686287,-79.3108553,coffee_shop,Tim Hortons
+node,2122895001,Tim Hortons,43.7235332,-79.2990431,coffee_shop,Tim Hortons
+node,2132778287,Tim Hortons,43.7057071,-79.3610107,coffee_shop,Tim Hortons
+node,2152792906,Panettorino,43.5923801,-79.5419047,,
+node,2153426073,Unholy Donuts,43.598113,-79.5440556,,
+node,2158114886,Bobo Tea & Juice,43.5963422,-79.5245583,bubble_tea,
+node,2158114897,Simon Sushi,43.5955542,-79.5280687,,
+node,2160397121,Tim Hortons,43.595689,-79.5156965,coffee_shop,Tim Hortons
+node,2179111140,Yonge/Merton,43.6973426,-79.3911801,,
+node,2179394509,Lit Espresso Bar,43.7044901,-79.3744711,,
+node,2195201298,Ezra's Pound,43.6752243,-79.4058803,coffee_shop,
+node,2201111012,Field Trip Cafe,43.6613144,-79.4304125,coffee_shop,
+node,2203975946,Starbucks,43.785937,-79.4743383,coffee_shop,Starbucks
+node,2222801453,Tim Hortons,43.7838493,-79.186952,coffee_shop,Tim Hortons
+node,2222801564,Starbucks,43.7835465,-79.1876851,coffee_shop,Starbucks
+node,2274510227,Coffee Lunar,43.6743223,-79.3888032,,
+node,2288216727,Starbucks,43.6513565,-79.4758992,coffee_shop,Starbucks
+node,2290986322,Tim Hortons,43.7448366,-79.4062592,coffee_shop,Tim Hortons
+node,2296069358,The Big Guy's Little Coffee Shop,43.6012263,-79.5024492,,
+node,2296069363,The Sydney Grind,43.6009511,-79.503675,,
+node,2309929541,Starbucks,43.7268833,-79.2931846,coffee_shop,Starbucks
+node,2333476280,Sam James Coffee Bar,43.6479547,-79.3838993,coffee_shop,
+node,2342899751,Coffee Culture,43.6584351,-79.4880199,coffee_shop,Coffee Culture
+node,2344798367,Wallace Espresso,43.6625029,-79.4442007,coffee_shop,
+node,2363208444,Tim Hortons,43.7862299,-79.1930116,coffee_shop,Tim Hortons
+node,2365100289,Second Cup,43.6795181,-79.544801,coffee_shop,Second Cup
+node,2374995802,Tim Hortons,43.6538252,-79.3783274,coffee_shop,Tim Hortons
+node,2388516176,Tim Hortons,43.6749533,-79.557822,coffee_shop,Tim Hortons
+node,2392212248,Morning Parade Coffee Bar,43.6501456,-79.417352,,
+node,2405765136,Second Cup,43.6502971,-79.4808999,coffee_shop,Second Cup
+node,2405832059,Coffee Tree Roastery,43.6497115,-79.4834637,coffee,
+node,2427505126,Spin Dessert Cafe,43.6233848,-79.5171591,,
+node,2434627110,Starbucks,43.75432,-79.3570808,coffee_shop,Starbucks
+node,2470509480,Mijanéaux,43.6096463,-79.5472566,,
+node,2476241593,Starbucks,43.649256,-79.3816983,coffee_shop,Starbucks
+node,2478463555,Press Cafe,43.6705118,-79.3845869,,
+node,2480713505,Starbucks,43.6606331,-79.3928009,coffee_shop,Starbucks
+node,2481918279,Paris Bakery & Pastry,43.6624072,-79.4446989,bakery,
+node,2482507726,Caffè BACIO,43.6703066,-79.390648,,
+node,2482519941,Zaza Espresso Bar,43.670961,-79.3910463,,
+node,2485317649,Tim Hortons,43.6615603,-79.3868819,coffee_shop,Tim Hortons
+node,2534699957,Sunny Coffee Shop,43.7721275,-79.3322341,coffee_shop,
+node,2547520855,Tim Hortons,43.7893065,-79.4171376,coffee_shop,Tim Hortons
+node,2547670051,B.B. Cafe,43.7912021,-79.4179028,,
+node,2547670066,Papa Pastry Cafe,43.7915157,-79.4179618,,
+node,2548524784,Red Rose Patisserie,43.793379,-79.419338,,
+node,2557476696,Aroma Espresso Bar,43.7056232,-79.3605358,coffee_shop,Aroma Espresso Bar
+node,2557495181,Starbucks,43.7105312,-79.3611,coffee_shop,Starbucks
+node,2563153278,Balzac's Coffee,43.6386676,-79.419455,coffee_shop,
+node,2563167755,Aroma Espresso Bar,43.6390368,-79.417472,coffee_shop,Aroma Espresso Bar
+node,2563836424,Fahrenheit Coffee,43.6524168,-79.3728949,coffee_shop,
+node,2603690238,The One in the Only,43.6804545,-79.3379204,coffee_shop,
+node,2620465252,Seven Grains Expresso Bar,43.6737806,-79.3959386,coffee_shop,
+node,2621717660,Aroma Espresso Bar,43.731283,-79.4036363,coffee_shop,Aroma Espresso Bar
+node,2622869294,Tim Hortons,43.7718704,-79.501022,coffee_shop,Tim Hortons
+node,2625332878,Tim Hortons,43.6416546,-79.3759575,coffee_shop,Tim Hortons
+node,2625364682,Decourses,43.5972956,-79.5217189,,
+node,2626366235,St. Lawrence Cafe,43.6497818,-79.3645039,coffee_shop,
+node,2669569548,SOMA chocolatemaker,43.6451865,-79.3957149,,
+node,2670847952,Second Cup,43.657481,-79.3899757,coffee_shop,Second Cup
+node,2670847953,Starbucks,43.6584668,-79.3887151,coffee_shop,Starbucks
+node,2670848743,On the Way Café,43.6574111,-79.3904371,,
+node,2672428218,Tim Hortons,43.6576897,-79.3903421,coffee_shop,Tim Hortons
+node,2674070161,Rockwell Cafe,43.6564308,-79.3789117,,
+node,2674074228,Tim Hortons,43.6565921,-79.3807896,coffee_shop,Tim Hortons
+node,2679673378,Pedaal,43.6621361,-79.4061232,,
+node,2684501548,Second Cup,43.6633675,-79.387196,coffee_shop,Second Cup
+node,2689727197,Tim Hortons,43.6575368,-79.3880353,coffee_shop,Tim Hortons
+node,2702019162,Sadie's Juice Bar,43.6551255,-79.3994625,,
+node,2702032886,Nadège Patisserie,43.6458348,-79.4114303,,
+node,2704364245,Tim Hortons,43.7811317,-79.4160063,coffee_shop,Tim Hortons
+node,2705018173,Tim Hortons,43.6553882,-79.3832356,coffee_shop,Tim Hortons
+node,2713388195,Black Goat Cafe,43.5967872,-79.522664,,
+node,2719390655,Starbucks,43.7341018,-79.4330092,coffee_shop,Starbucks
+node,2721219352,Tim Hortons,43.676103,-79.3584818,coffee_shop,Tim Hortons
+node,2725504901,Aroma Espresso Bar,43.6551728,-79.383744,coffee_shop,Aroma Espresso Bar
+node,2765828402,Tim Hortons,43.6807902,-79.2829326,coffee_shop,Tim Hortons
+node,2780593062,Second Cup,43.6737065,-79.4705284,coffee_shop,Second Cup
+node,2783830651,Timothy's,43.7801385,-79.4164561,coffee_shop,Timothy's
+node,2795566335,Tim Hortons,43.7869123,-79.257804,coffee_shop,Tim Hortons
+node,2796312871,Tim Hortons,43.6873736,-79.3964051,coffee_shop,Tim Hortons
+node,2806099822,Thindi,43.6569757,-79.4060282,indian,
+node,2806099840,Second Cup,43.6575574,-79.4032046,coffee_shop,Second Cup
+node,2806099847,found,43.6576389,-79.4026199,coffee_shop,
+node,2806099850,Cups,43.6576981,-79.4023181,asian,
+node,2806796101,Cotti Coffee,43.6588131,-79.3821378,,
+node,2808830502,Coffee Exchange,43.6536712,-79.3909158,,
+node,2808873203,Fruiteao,43.653755,-79.3908325,bubble_tea,
+node,2809388002,Concord Cafe,43.6620153,-79.4271257,,
+node,2812081959,Cong,43.6658618,-79.4082738,,
+node,2816057538,Tim Hortons,43.6827628,-79.4211612,coffee_shop,Tim Hortons
+node,2818170002,Tim Hortons,43.7918605,-79.2495693,coffee_shop,Tim Hortons
+node,2826567819,Tim Hortons,43.7806321,-79.2055214,coffee_shop,Tim Hortons
+node,2826872560,Second Cup,43.6606701,-79.3847574,coffee_shop,Second Cup
+node,2833168687,Gallery Coffee Bakery,43.6724947,-79.3204602,,
+node,2833168704,Punjabi Chaat Palace,43.6725171,-79.3214633,,
+node,2836292009,Second Cup,43.7213796,-79.376451,coffee_shop,Second Cup
+node,2837859529,Terminal 3 Coffee Roasters,43.5961598,-79.5253982,coffee_shop,
+node,2846397940,Treats,43.6756843,-79.4105109,,
+node,2848615071,Tim Hortons,43.6405967,-79.4372931,coffee_shop,Tim Hortons
+node,2848620809,Tim Hortons,43.643882,-79.4193357,coffee_shop,Tim Hortons
+node,2858000537,Cabin Fever Collective,43.655288,-79.4565903,,
+node,2864381005,Tim Hortons,43.6208901,-79.5149782,coffee_shop,Tim Hortons
+node,2873780777,Tim Hortons,43.6395931,-79.3984559,coffee_shop,Tim Hortons
+node,2884373413,Tim Hortons,43.6972893,-79.5013474,coffee_shop,Tim Hortons
+node,2887835265,Starbucks,43.6449107,-79.3834388,coffee_shop,Starbucks
+node,2894368366,Balzac's Coffee,43.6482906,-79.3719506,,
+node,2899474101,Second Cup,43.7687735,-79.4119231,coffee_shop,Second Cup
+node,2901442509,Starbucks,43.6599515,-79.5137783,coffee_shop,Starbucks
+node,2916365601,Dineen Coffee,43.6511494,-79.378928,coffee_shop,
+node,2926923501,Starbucks,43.6960282,-79.3290713,coffee_shop,Starbucks
+node,2928429563,Tim Hortons,43.7105509,-79.2908148,coffee_shop,Tim Hortons
+node,2940941056,Starbucks,43.6401669,-79.3932645,coffee_shop,Starbucks
+node,2998472195,Propeller Coffee Co.,43.6593774,-79.4450398,coffee_shop,
+node,3007603744,Tim Hortons,43.6477723,-79.3705138,coffee_shop,Tim Hortons
+node,3052821914,Tim Hortons,43.6485347,-79.4851358,coffee_shop,Tim Hortons
+node,3057111080,Starbucks,43.6439847,-79.3893423,coffee_shop,Starbucks
+node,3079147025,Cafe Pamenar,43.656668,-79.4027228,coffee_shop,
+node,3079147028,Rick's Cafe,43.6558904,-79.4024933,,
+node,3099830650,Coffee Time,43.7487885,-79.5593434,coffee_shop,Coffee Time
+node,3119029284,Jimmy's Coffee,43.6545672,-79.4013204,coffee_shop,
+node,3119032737,Jimmy's Coffee,43.6452608,-79.4002129,coffee_shop,
+node,3119035625,Jimmy's Coffee,43.6584773,-79.3855605,coffee_shop,
+node,3159506029,Tim Hortons,43.7749815,-79.3462678,coffee_shop,Tim Hortons
+node,3206983509,Tim Hortons,43.6469775,-79.3950936,coffee_shop,Tim Hortons
+node,3212853792,D Spot,43.7228223,-79.2893187,dessert,
+node,3229198861,Starbucks,43.7725884,-79.5016002,coffee_shop,Starbucks
+node,3229210091,Country Style,43.776242,-79.5023882,coffee_shop,Country Style
+node,3231903525,Tim Hortons,43.6984222,-79.4064701,coffee_shop,Tim Hortons
+node,3245342256,Tim Hortons,43.7983219,-79.2726464,coffee_shop,Tim Hortons
+node,3281354332,Starbucks,43.8162753,-79.2934032,coffee_shop,Starbucks
+node,3283188063,Country Style,43.7662512,-79.3018851,coffee_shop,Country Style
+node,3288813686,S&L Cafe,43.67953,-79.4351017,,
+node,3297272223,Rooster Coffee House,43.6517827,-79.3653704,,
+node,3301817982,Tim Hortons,43.7163206,-79.4468824,coffee_shop,Tim Hortons
+node,3303274928,Tim Hortons,43.7787848,-79.3650961,coffee_shop,Tim Hortons
+node,3306467139,Tim Hortons,43.7544117,-79.4878235,coffee_shop,Tim Hortons
+node,3314874483,brand=Chatime,43.7763334,-79.2353109,,
+node,3314874485,Coffee Culture,43.7761951,-79.2340173,coffee_shop,Coffee Culture
+node,3317175461,Church Street Espresso,43.6682642,-79.381822,,
+node,3317181966,Tim Hortons,43.7705142,-79.5426019,coffee_shop,Tim Hortons
+node,3329263291,Tim Hortons,43.7864717,-79.4704499,coffee_shop,Tim Hortons
+node,3330175424,CoCo Fresh Tea & Juice,43.5980738,-79.5187768,bubble_tea,CoCo
+node,3333046455,Tim Hortons,43.6479607,-79.3737618,coffee_shop,Tim Hortons
+node,3338997896,Tim Hortons,43.6566364,-79.356201,coffee_shop,Tim Hortons
+node,3354817859,Tim Hortons,43.6813986,-79.3316393,coffee_shop,Tim Hortons
+node,3364854941,Tim Hortons,43.6677842,-79.4880531,coffee_shop,Tim Hortons
+node,3370258900,Starbucks,43.6448929,-79.3860227,coffee_shop,Starbucks
+node,3391253124,Tim Hortons,43.7148694,-79.3998703,coffee_shop,Tim Hortons
+node,3416430848,Le Petite Cafe,43.6271541,-79.4997971,,
+node,3418915696,Starbucks,43.6231324,-79.4828057,coffee_shop,Starbucks
+node,3426157172,Tim Hortons,43.6323376,-79.5454619,coffee_shop,Tim Hortons
+node,3427096413,Parisco Cafe,43.6362272,-79.4045665,,
+node,3439310962,Avenue Cafe + Bistro,43.6241897,-79.4843645,,
+node,3439310963,Starbucks,43.6279357,-79.48927,coffee_shop,Starbucks
+node,3460612821,Starbucks,43.6432354,-79.3830553,coffee_shop,Starbucks
+node,3468561288,M Square Coffee Co.,43.6509417,-79.3836704,coffee_shop,
+node,3473921145,Tim Hortons,43.7513984,-79.264332,coffee_shop,Tim Hortons
+node,3474264108,Music Garden Cafe,43.6376023,-79.3932907,,
+node,3477630779,Starbucks,43.696315,-79.5332925,coffee_shop,Starbucks
+node,3479184230,Caldense Bakery,43.6867943,-79.528029,portuguese,
+node,3482078776,Tim Hortons,43.6412286,-79.3781524,coffee_shop,Tim Hortons
+node,3482106447,Starbucks,43.6412544,-79.3784577,coffee_shop,Starbucks
+node,3484654271,Tim Hortons,43.7134695,-79.3781897,coffee_shop,Tim Hortons
+node,3559442059,Tim Hortons,43.6471897,-79.3842327,coffee_shop,Tim Hortons
+node,3561594873,Starbucks,43.657657,-79.3810926,coffee_shop,Starbucks
+node,3562198326,Tim Hortons,43.7351743,-79.3557289,coffee_shop,Tim Hortons
+node,3572166952,Mos Mos,43.6481326,-79.3785734,coffee_shop,
+node,3584692560,b espresso bar,43.667719,-79.3958369,coffee;espresso,
+node,3586994485,Starbucks,43.6522292,-79.3796282,coffee_shop,Starbucks
+node,3587014147,Starbucks,43.6496537,-79.3834235,coffee_shop,Starbucks
+node,3587014148,Tim Hortons,43.6503155,-79.3833561,coffee_shop,Tim Hortons
+node,3595537293,Pilot Coffee Roasters,43.6612327,-79.3384847,coffee_shop,
+node,3602419558,Jet Fuel Coffee,43.665277,-79.3682133,coffee_shop,
+node,3610780416,Danish Pastry House,43.7346834,-79.3454917,,
+node,3641029235,Two Penny Café,43.6469338,-79.4174163,coffee_shop,
+node,3668839194,Chatime,43.7912327,-79.3674977,bubble_tea,Chatime
+node,3670530408,BB Cafe,43.6263967,-79.477189,,
+node,3672015337,Gravity Pizza Cafe,43.6270661,-79.4771121,pizza;coffee_shop;ice_cream,
+node,3691998589,Tim Hortons,43.6585621,-79.385094,coffee_shop,Tim Hortons
+node,3696230524,la prep(closed),43.6513788,-79.3824824,closed,
+node,3698533566,Starbucks,43.6474001,-79.3809785,coffee_shop,Starbucks
+node,3700398413,Balzac's Coffee,43.6443771,-79.3831647,,
+node,3700500418,Tim Hortons,43.6479715,-79.3820084,coffee_shop,Tim Hortons
+node,3701271578,Tim Hortons,43.6432306,-79.3833313,coffee_shop,Tim Hortons
+node,3708787552,Tim Hortons,43.790016,-79.1937875,coffee_shop,Tim Hortons
+node,3714084722,Aroma Espresso Bar,43.6409478,-79.3781691,coffee_shop,Aroma Espresso Bar
+node,3729410887,Chatime,43.6740623,-79.4703617,bubble_tea,Chatime
+node,3733760987,Café Belong,43.6845512,-79.3650746,coffee_shop,
+node,3739757328,Tim Hortons,43.7652115,-79.2813844,coffee_shop,Tim Hortons
+node,3741392545,Starbucks,43.6865794,-79.3998688,coffee_shop,Starbucks
+node,3744177201,Marley Coffee,43.7843916,-79.2287133,coffee_shop,
+node,3744177203,Tim Hortons Express,43.7856811,-79.2261608,coffee_shop,Tim Hortons
+node,3744177204,Tim Hortons,43.7848841,-79.227167,coffee_shop,Tim Hortons
+node,3763291979,Tim Hortons,43.6379081,-79.4189561,coffee_shop,Tim Hortons
+node,3779624796,Acacia Cafe,43.6645012,-79.3952788,,
+node,3782646764,Supercoffee,43.686801,-79.4895283,coffee_shop,
+node,3786761687,Suvari Coffee,43.5961467,-79.5270561,coffee_shop,
+node,3818090775,Joey's Espresso Bar,43.6121566,-79.5415655,,
+node,3838168723,55 Cafe,43.7012978,-79.5282872,,
+node,3908516143,Tim Hortons,43.7108029,-79.3774111,coffee_shop,Tim Hortons
+node,3919698566,Cafe Tutti,43.6033571,-79.539087,,
+node,3928028041,Tim Hortons,43.6598584,-79.3881289,coffee_shop,Tim Hortons
+node,3930426863,Country Style,43.7208566,-79.613168,coffee_shop,Country Style
+node,3931418544,Cafe Sympatico,43.6413911,-79.5766842,sandwich,
+node,3931418555,Starbucks,43.6414304,-79.5766408,coffee_shop,Starbucks
+node,3957196268,Haven Espresso Bar,43.6594851,-79.4386193,,
+node,3969619092,Rooster Coffee House,43.669586,-79.3799912,coffee_shop,
+node,3999424721,Tim Hortons,43.6702487,-79.2997459,coffee_shop,Tim Hortons
+node,4013650573,Petit Nuage,43.6516045,-79.404064,macarons,
+node,4013827091,Canela,43.6787371,-79.3476141,,
+node,4015333400,Tim Hortons,43.6872828,-79.28593,coffee_shop,Tim Hortons
+node,4015549355,Tim Hortons,43.6671677,-79.368893,coffee_shop,Tim Hortons
+node,4015804201,Sansa Bakery & Cafe,43.6866907,-79.4386924,coffee_shop,
+node,4030020002,Tim Hortons,43.6447213,-79.5676772,coffee_shop,Tim Hortons
+node,4035387931,Yo Adrian,43.646115,-79.423343,,
+node,4036605396,Dessert Lady Cafe & Bakery,43.668672,-79.390074,coffee_shop;bakery,
+node,4036638717,HotBlack Coffee,43.6502956,-79.3886641,,
+node,4047007530,Starbucks,43.6426536,-79.3809016,coffee_shop,Starbucks
+node,4060532401,Page One Café,43.6578933,-79.3762815,coffee_shop,
+node,4068383985,Tim Hortons,43.6595631,-79.3291325,coffee_shop,Tim Hortons
+node,4086583523,de Mello Palheta,43.7118795,-79.3992736,coffee_shop,
+node,4126684609,Java Dolice,43.7089522,-79.4433571,,
+node,4126684616,Cafe 513,43.7085586,-79.4430708,,
+node,4131866041,Tim Hortons,43.7172364,-79.4563043,coffee_shop,Tim Hortons
+node,4157579639,Country Style,43.6125162,-79.5425137,coffee_shop,Country Style
+node,4175099976,Tim Hortons,43.7683031,-79.4671298,coffee_shop,Tim Hortons
+node,4176419119,Tim Hortons,43.7934876,-79.2381489,coffee_shop,Tim Hortons
+node,4177416984,Tim Hortons,43.7575572,-79.5188635,coffee_shop,Tim Hortons
+node,4278532429,Tim Hortons,43.7837723,-79.2933993,coffee_shop,Tim Hortons
+node,4281236369,Tim Hortons,43.8099947,-79.2690313,coffee_shop,Tim Hortons
+node,4291907405,Purple Penguin Cafe,43.6604252,-79.3422613,coffee_shop,
+node,4305352590,Tim Hortons,43.6386833,-79.3863272,coffee_shop,Tim Hortons
+node,4322241899,Tim Hortons,43.6447026,-79.3814731,coffee_shop,Tim Hortons
+node,4322241900,McCafé,43.6442871,-79.3808782,coffee_shop,McCafé
+node,4328179819,Tim Hortons,43.755748,-79.3601481,coffee_shop,Tim Hortons
+node,4331228108,Lil E Cafe,43.688435,-79.3944623,coffee_shop,
+node,4333069189,Starbucks,43.7703881,-79.1864341,coffee_shop,Starbucks
+node,4333069289,Tim Hortons,43.7466065,-79.2003353,coffee_shop,Tim Hortons
+node,4334037896,Starbucks,43.6129058,-79.5557953,coffee_shop,Starbucks
+node,4334037897,Starbucks,43.6133876,-79.5579916,coffee_shop,Starbucks
+node,4336514649,Fusion Artz Cafe,43.7294525,-79.418272,,
+node,4341524558,Hailed Coffee,43.6669096,-79.3454273,coffee_shop,
+node,4346736862,Beiruti Grand Café,43.7730685,-79.332366,,
+node,4353363377,Coffee Time,43.6837903,-79.5936697,coffee_shop,Coffee Time
+node,4358881074,Boxcar Social,43.6384685,-79.3825027,coffee_shop,
+node,4358910938,La Paloma,43.6760185,-79.4509671,ice_cream,
+node,4363270693,,43.7651367,-79.3021763,,
+node,4366610594,Voodoo Child Cafe,43.6570599,-79.4055527,,
+node,4368589695,Starbucks,43.7445132,-79.4064359,coffee_shop,Starbucks
+node,4368798489,Tim Hortons,43.6374309,-79.4003234,coffee_shop,Tim Hortons
+node,4373039275,The Haven,43.6730034,-79.2864846,,
+node,4378209732,Epochal Imp,43.6762542,-79.3577592,,
+node,4378209741,GelaTeo Cafe,43.6765331,-79.3562794,,
+node,4379364905,The Mad Bean Coffee House,43.7033485,-79.4136616,coffee,
+node,4379889593,Jimmy's Coffee,43.6538288,-79.4514833,coffee_shop,
+node,4412251891,Carole's Cheesecake Café,43.6702879,-79.3916253,cheesecake,
+node,4413390809,Tim Hortons,43.7308121,-79.2900485,coffee_shop,Tim Hortons
+node,4414960588,Perfect Blend,43.7009614,-79.5186548,,
+node,4429343396,Starbucks,43.6896154,-79.5784319,coffee_shop,Starbucks
+node,4447738882,George Street Diner,43.6529726,-79.3714782,diner,
+node,4457924327,Circles and Squares Bakery,43.719835,-79.3132233,,
+node,4459715563,Tim Hortons,43.7872085,-79.2689061,coffee_shop,Tim Hortons
+node,4462227689,Tim Hortons,43.7720428,-79.5001596,coffee_shop,Tim Hortons
+node,4482681014,Coffee Time,43.6978831,-79.439135,coffee_shop,Coffee Time
+node,4489449704,Starbucks,43.6545917,-79.3786743,coffee_shop,Starbucks
+node,4503145304,Sorry Coffee Co.,43.6697693,-79.3918497,,
+node,4503147233,Starbucks,43.6696732,-79.392085,coffee_shop,Starbucks
+node,4506575850,Starbucks,43.7524461,-79.2763496,coffee_shop,Starbucks
+node,4512229682,Chatime,43.6638475,-79.4165447,bubble_tea,Chatime
+node,4512229683,Cactus,43.6640472,-79.4168135,,
+node,4512229684,Tobbi,43.6640751,-79.4166856,coffee_shop,
+node,4519732248,Tim Hortons,43.6911498,-79.576634,coffee_shop,Tim Hortons
+node,4524887401,Forget Me Not Cafe,43.6457733,-79.4008126,,
+node,4542180350,Cafe Neon,43.6441375,-79.4196925,,
+node,4564428464,Starbucks,43.6593764,-79.3897427,coffee_shop,Starbucks
+node,4564428466,Aroma Espresso Bar,43.6591426,-79.3896556,coffee_shop,Aroma Espresso Bar
+node,4568862718,The Bothy,43.684385,-79.297441,,
+node,4595660196,White Squirrel Coffee Shop,43.645366,-79.4123873,,
+node,4616255516,JJ Bean,43.6881101,-79.3950933,coffee_shop,JJ Bean
+node,4635856886,Chatime,43.7781251,-79.415427,bubble_tea,Chatime
+node,4635858292,Soban Cafe,43.7795729,-79.4158217,dessert;bubble_tea,
+node,4636367437,Tim Hortons,43.6437347,-79.4042468,coffee_shop,Tim Hortons
+node,4643368332,Gong Cha,43.7772986,-79.4145885,bubble_tea,Gong Cha
+node,4691467011,Tim Hortons,43.7604903,-79.4110344,coffee_shop,Tim Hortons
+node,4691471632,Presotea,43.7601539,-79.4109317,bubble_tea,
+node,4697780123,Slanted Door,43.6657492,-79.4088396,,
+node,4737293922,Starbucks,43.6985428,-79.4621701,coffee_shop,Starbucks
+node,4749938571,Tim Hortons,43.59897,-79.5119096,coffee_shop,Tim Hortons
+node,4753063329,Market @416,43.6318045,-79.3948028,coffee_shop;sandwich,
+node,4802817028,Tim Hortons,43.6622477,-79.4250865,coffee_shop,Tim Hortons
+node,4816957256,Tim Hortons,43.6486938,-79.3960416,coffee_shop,Tim Hortons
+node,4823845922,Coffee Pocket,43.6639888,-79.4170539,,
+node,4846277121,Louie Coffee,43.6391951,-79.4255467,coffee_shop,
+node,4918124554,Icha Tea,43.6514239,-79.3970383,bubble_tea;tea,
+node,4919963779,Jimmy's Coffee,43.6445943,-79.4188359,,
+node,4922343570,Ella's Uncle,43.6510834,-79.4125369,,
+node,4922343576,Hamers Coffee,43.6513901,-79.4110852,,
+node,4930521621,Cacao 79 distillery,43.6501713,-79.3606229,,
+node,4937092352,Galata Turkish Café,43.6444372,-79.5330977,,
+node,4939314098,MP Cafe,43.6752291,-79.4535015,,
+node,4946924139,Tim Hortons,43.6543766,-79.3373833,coffee_shop,Tim Hortons
+node,4952356521,FUEL+,43.664488,-79.3802917,breakfast;coffee_shop,
+node,4953740623,Starbucks,43.6426224,-79.4278077,coffee_shop,Starbucks
+node,4966971100,Starbucks,43.7294602,-79.6074641,coffee_shop,Starbucks
+node,4966971102,Tim Hortons,43.7290192,-79.6083431,coffee_shop,Tim Hortons
+node,4980588123,Starbucks,43.6446609,-79.3817489,coffee_shop,Starbucks
+node,5010476462,Grandma Loves You,43.6879587,-79.3955998,,
+node,5013094749,Tim Hortons,43.6757977,-79.4035491,coffee_shop,Tim Hortons
+node,5022507089,Tim Hortons,43.658512,-79.4413725,coffee_shop,Tim Hortons
+node,5046637221,Starbucks,43.6513466,-79.3642278,coffee_shop,Starbucks
+node,5053722221,Tim Hortons,43.6460868,-79.382574,coffee_shop,Tim Hortons
+node,5079044021,Tim Hortons,43.7042808,-79.409173,coffee_shop,Tim Hortons
+node,5079407430,Starbucks,43.768202,-79.2718123,coffee_shop,Starbucks
+node,5090693675,Black Pony,43.6724925,-79.3204613,,
+node,5090693680,CAFE Dispensary,43.6727489,-79.3190027,,
+node,5094697307,Early Bird,43.647385,-79.4025209,,
+node,5127098639,Run and Gun Coffee,43.6495772,-79.4332085,,
+node,5137524475,I Deal Coffee,43.6463355,-79.4433202,coffee_shop,
+node,5140435746,Krave Coffee,43.6807784,-79.4292708,,
+node,5140435749,Zaza Expresso Bar,43.6808427,-79.4289512,,
+node,5159436060,CoCo Fresh Tea & Juice,43.6499125,-79.5279365,bubble_tea,CoCo
+node,5159436073,Tim Hortons,43.6499917,-79.5271165,coffee_shop,Tim Hortons
+node,5171308457,Double Ming Chinese Dessert,43.8041028,-79.2884255,,
+node,5171319990,Royaltea,43.8044802,-79.2878944,bubble_tea,Royaltea
+node,5171320315,Cakeview Bakery & Cafe,43.8046138,-79.2874089,,
+node,5171374569,Chatime,43.8048944,-79.2881816,bubble_tea,Chatime
+node,5171376122,The Alley,43.8046389,-79.2891954,bubble_tea,The Alley
+node,5171378828,Sharetea,43.8050299,-79.2902039,bubble_tea,Sharetea
+node,5171385323,Sugar Marmalade,43.8053551,-79.2889433,,
+node,5171387872,QQ Thai Ice Cream,43.8054829,-79.288321,,
+node,5172080472,,43.7810319,-79.2474186,ice_cream;bubble_tea;fried_food,
+node,5176791493,Charmaine Sweets,43.7126847,-79.3587927,coffee_shop,
+node,5184139224,Aroma Espresso Bar,43.6338265,-79.397386,coffee_shop,Aroma Espresso Bar
+node,5184936110,The Stockyards Grind,43.6697508,-79.4806689,,
+node,5212661151,Tim Hortons,43.6413871,-79.416077,coffee_shop,Tim Hortons
+node,5220349761,Real Fruit Bubble Tea,43.7342635,-79.343764,bubble_tea,Real Fruit Bubble Tea
+node,5220384806,Real Fruit Bubble Tea,43.7429032,-79.313511,bubble_tea,Real Fruit Bubble Tea
+node,5258668122,Tim Hortons,43.6956942,-79.4878327,coffee_shop,Tim Hortons
+node,5260039172,Tim Hortons,43.793011,-79.330371,coffee_shop,Tim Hortons
+node,5266291988,Sharetea,43.7680462,-79.3707901,bubble_tea,Sharetea
+node,5266291989,Toffee Shop,43.7679631,-79.370955,,
+node,5272757722,Starbucks,43.6440633,-79.4012165,coffee_shop,Starbucks
+node,5272994123,Kung Fu Tea,43.6519912,-79.3979519,bubble_tea,Kung Fu Tea
+node,5279958524,Snowday,43.6638316,-79.4166442,,
+node,5314429033,Cafe Nuna,43.6469746,-79.4056523,,
+node,5345553359,Tim Hortons,43.7584227,-79.4104711,coffee_shop,Tim Hortons
+node,5348818286,Isabella's Mochi Donut,43.6645814,-79.4132274,,
+node,5366324122,Manic Coffee,43.6567582,-79.4070812,,
+node,5368912112,Tim Hortons,43.7638335,-79.3993634,coffee_shop,Tim Hortons
+node,5401796421,Krepesz Cafe & Bar,43.6550512,-79.4020665,,
+node,5410066087,Starbucks,43.7728349,-79.5051766,coffee_shop,Starbucks
+node,5418969575,Tim Hortons,43.6298743,-79.4876122,coffee_shop,Tim Hortons
+node,5420576621,Arvo Coffee,43.6499057,-79.3613225,,
+node,5424621921,Outpost Coffee Roasters Ltd,43.6561355,-79.454105,coffee_shop,
+node,5427016522,Rooster Coffee House,43.6691616,-79.352812,,
+node,5427073221,Broadview Espresso,43.6784946,-79.3581959,,
+node,5437522548,Formocha,43.6549965,-79.4170911,bubble_tea,
+node,5440251022,Press Books Coffee Vinyl,43.6877636,-79.3045248,,
+node,5442962147,Cool Hand of a Girl,43.66549,-79.462863,,
+node,5442972523,Phancy's Bodega,43.6597255,-79.4537589,sandwich,
+node,5443328122,Moments,43.6511365,-79.4122851,,
+node,5443454822,Tre Mari Bakery,43.6765099,-79.4486825,,
+node,5443462221,Wallace Espresso,43.6648975,-79.4557359,,
+node,5448317525,Jimmy's Coffee,43.6557581,-79.3921888,,
+node,5456905523,Sweat & Soda,43.6618267,-79.3361274,,
+node,5459672222,Letterbox Doughnuts,43.6397992,-79.4412683,donut,
+node,5465474221,La Bohème Café Patisserie,43.711762,-79.3991858,,
+node,5467605638,Douce France,43.6798035,-79.3412336,,
+node,5476199331,Contra Café,43.6689927,-79.4261273,,
+node,5476234421,Village Juicery,43.6421076,-79.4472562,juice,
+node,5478431221,Reunion Coffee Roasters,43.6505393,-79.4505206,,
+node,5503866476,Capital Espresso,43.6408698,-79.4346043,coffee_shop,
+node,5508637325,Sunnyside Provisions,43.6476388,-79.4493819,,
+node,5508698021,Affect Coffee,43.6475238,-79.4493438,coffee_shop,
+node,5508901522,Gong Cha,43.6487475,-79.3968767,bubble_tea,Gong Cha
+node,5531936321,Tim Hortons,43.6100535,-79.5531091,coffee_shop,Tim Hortons
+node,5546015595,Tim Hortons,43.7741376,-79.4134417,coffee_shop,Tim Hortons
+node,5558178183,Tim Hortons,43.7790453,-79.4148435,coffee_shop,Tim Hortons
+node,5573985522,Fika,43.6535356,-79.4004052,,
+node,5575053267,Hibiscus Vegan Cafe,43.6554098,-79.4026596,,
+node,5575081852,Calli Love,43.6458179,-79.3927448,,
+node,5585260721,Dipped Donuts and Coffee,43.6414298,-79.4331707,coffee_shop,
+node,5594977293,A Corner Cafe,43.7703242,-79.412938,,
+node,5607825534,Ten Ren's Tea,43.7692555,-79.4122955,taiwanese;bubble_tea;tea,
+node,5632878215,Tim Hortons,43.7068738,-79.3989909,coffee_shop,Tim Hortons
+node,5632878216,Starbucks,43.7068271,-79.3989663,coffee_shop,Starbucks
+node,5665098638,Hale,43.6653503,-79.4500069,coffee_shop,
+node,5677724756,Tim Hortons,43.7257137,-79.3139532,coffee_shop,Tim Hortons
+node,5693900419,Happy Lemon,43.7763936,-79.414403,bubble_tea,Happy Lemon
+node,5708841324,Balzac's Coffee,43.6577585,-79.3791497,coffee_shop,
+node,5709180037,Black Canary,43.6569784,-79.3810058,,
+node,5709568921,XOXO Cafe,43.7366826,-79.5627464,,
+node,5711958522,Chatime,43.6484581,-79.3972625,bubble_tea,Chatime
+node,5717888821,Agenda Cafe,43.6551627,-79.4148054,,
+node,5717919321,Little Pebbles Cafe,43.6558978,-79.4112776,,
+node,5720602222,BKookies,43.6552385,-79.4131556,,
+node,5720605317,Cafe Bene,43.7783487,-79.4149116,korean;cafe,
+node,5720632724,Coco's,43.6552355,-79.4166327,,
+node,5720795525,Belen,43.6558182,-79.4117175,,
+node,5721149721,Sicilian Sidewalk Café,43.655355,-79.4185894,,
+node,5721283769,Gong Cha,43.777279,-79.4146576,bubble_tea,Gong Cha
+node,5723546121,Northern Belle,43.6508609,-79.4125842,,
+node,5723689822,Cha Thai,43.6522755,-79.4067214,,
+node,5745628211,Tim Hortons,43.7752786,-79.3475589,coffee_shop,Tim Hortons
+node,5793561215,Aroma Espresso Bar,43.7698334,-79.502135,coffee_shop,Aroma Espresso Bar
+node,5793891408,Country Style,43.737107,-79.5247668,coffee_shop,Country Style
+node,5794134376,Tim Hortons,43.6961471,-79.5448311,coffee_shop,Tim Hortons
+node,5794366149,Rustic Cosmo Cafe,43.642072,-79.4299984,,
+node,5794366163,Fab's Donuts,43.6396299,-79.4420823,donut,
+node,5794386493,Bobo Tea & Juice,43.6400366,-79.3964202,,
+node,5799179253,It's Jenny Espresso Boutique and Catering,43.6618001,-79.3689897,,
+node,5825318247,Tim Hortons,43.7254976,-79.4026203,coffee_shop,Tim Hortons
+node,5825385189,The Fix,43.638257,-79.3805002,ice_cream,
+node,5847483944,Demetres,43.7344074,-79.3464996,dessert,
+node,5847483945,Tim Hortons,43.7336664,-79.3461012,coffee_shop,Tim Hortons
+node,5852579246,Tim Hortons,43.790001,-79.1937147,coffee_shop,Tim Hortons
+node,5910080654,Starbucks,43.6352008,-79.5632667,coffee_shop,Starbucks
+node,5970902402,CoCo Fresh Tea & Juice,43.6491526,-79.3953923,bubble_tea,CoCo
+node,5986863969,Rosey J Cafe,43.7791426,-79.4173487,,
+node,5986863970,CoCo Fresh Tea & Juice,43.7791878,-79.4171813,bubble_tea,CoCo
+node,5986981494,Gong Cha,43.7735463,-79.2559307,bubble_tea,Gong Cha
+node,5987043916,Feng Cha Tea Shop,43.8054822,-79.2884116,,
+node,5987043918,Happy Lemon,43.8049324,-79.2878483,bubble_tea,Happy Lemon
+node,5987043921,Boba Boy,43.804895,-79.2880465,,
+node,5991923053,Aroma Espresso Bar,43.768648,-79.386429,coffee_shop,Aroma Espresso Bar
+node,6001296589,Arena Coffee Bar,43.6503498,-79.358811,coffee_shop,
+node,6008096825,Tim Hortons,43.7076454,-79.4766633,coffee_shop,Tim Hortons
+node,6064372694,The Maker Bean Café,43.6606542,-79.432418,coffee_shop,
+node,6068842914,Gong Cha,43.7702114,-79.5005108,bubble_tea,Gong Cha
+node,6100935370,Tim Hortons,43.7428889,-79.3049142,coffee_shop,Tim Hortons
+node,6152817679,Royaltea,43.7736318,-79.4142877,bubble_tea,Royaltea
+node,6173965252,Tim Hortons,43.6023912,-79.5451051,coffee_shop,Tim Hortons
+node,6179553939,Lido Caffe,43.6745219,-79.4577198,coffee_shop,
+node,6181451919,Fix,43.6449725,-79.428214,coffee_shop,
+node,6181451956,Buna,43.6429428,-79.425627,coffee_shop,
+node,6181451964,Major Treat Coffee,43.6430505,-79.4250872,coffee_shop,
+node,6184565116,The Abbott,43.637944,-79.4306152,coffee_shop,
+node,6184565140,Ama Ko Momo,43.638834,-79.4284795,,
+node,6201102927,Mercat del Carmen,43.6449279,-79.4157779,,
+node,6201102957,Antikka,43.6446537,-79.4171334,,
+node,6240360528,Pilot Coffee Roasters,43.6466325,-79.4195558,coffee_shop,
+node,6270207703,Velvet Lane Cakes,43.6505093,-79.3711902,,
+node,6304072402,The Library Coffee,43.6453549,-79.4125613,coffee_shop,
+node,6304072448,Dlish Cupcakes,43.6459512,-79.4096162,cupcake,
+node,6306324871,Café Rouge Patisserie,43.6486068,-79.5064118,french,
+node,6310887984,Java Joe's,43.6362303,-79.5395712,,
+node,6314606862,Olga's Espresso Bar,43.6856445,-79.5235759,,
+node,6315140372,Tim Hortons,43.6807773,-79.5093401,coffee_shop,Tim Hortons
+node,6315140375,Bevo Espresso & Gelato Bar,43.6824504,-79.5105591,coffee_shop;ice_cream,
+node,6315205511,Java Joe's,43.6624941,-79.532214,,
+node,6315313405,Timothy's,43.6793836,-79.5472048,coffee_shop,Timothy's
+node,6315343240,Starbucks,43.6750799,-79.5557718,coffee_shop,Starbucks
+node,6318936234,Tim Hortons,43.6967251,-79.5462545,coffee_shop,Tim Hortons
+node,6321380372,Aroma Espresso Bar,43.6120688,-79.5587823,coffee_shop,Aroma Espresso Bar
+node,6323402036,% Arabica,43.6124975,-79.5579199,coffee_shop,% Arabica
+node,6323420451,Second Cup,43.6119031,-79.5585321,coffee_shop,Second Cup
+node,6323492985,Tim Hortons,43.6130031,-79.5590787,coffee_shop,Tim Hortons
+node,6325961199,am bagel,43.6404551,-79.4466421,bagel,
+node,6328179187,Super Bowls,43.6474297,-79.4492982,,
+node,6328179207,Ed's Real Scoop,43.6449716,-79.4483601,ice_cream,
+node,6329202858,Piedmont Coffee Bar,43.6683444,-79.3825456,coffee_shop;sandwich,
+node,6332297823,Real Fruit Bubble Tea,43.7200196,-79.6010877,bubble_tea,Real Fruit Bubble Tea
+node,6332343064,Tim Hortons,43.720956,-79.5999061,coffee_shop,Tim Hortons
+node,6334228514,Real Fruit Bubble Tea,43.7414791,-79.5840983,bubble_tea,Real Fruit Bubble Tea
+node,6334228529,Tim Hortons,43.7417625,-79.584173,coffee_shop,Tim Hortons
+node,6334287551,Coffee Club,43.7420805,-79.5932152,,
+node,6340610376,Hello Coffee,43.6628211,-79.4223534,,
+node,6340696116,Filosophy Pastry & Expresso Bar,43.6619178,-79.4264967,,
+node,6341002516,God Bless Canada,43.7009339,-79.519384,,
+node,6341002527,Mati's Coffee,43.7008194,-79.5181151,,
+node,6341447987,Sigad Cafe & Sweets,43.6977341,-79.5102488,,
+node,6342175888,,43.6875347,-79.4913163,bubble_tea,
+node,6343511085,ThirdPlace,43.6619601,-79.4250262,,
+node,6345311521,Bunna Aroma,43.6590019,-79.4389395,,
+node,6348259526,Weston Donuts,43.6848581,-79.4845627,,
+node,6348433229,Panino Cappuccino,43.7385283,-79.5399867,,
+node,6348434791,Caked Coffee,43.6553668,-79.4561975,coffee_shop,
+node,6348638713,Tim Hortons,43.7524001,-79.5427711,coffee_shop,Tim Hortons
+node,6348657383,Bar Comunale Sport,43.7537719,-79.5423961,,
+node,6352818897,Avellino Social Club,43.7599941,-79.57117,,
+node,6355483814,Tim Hortons,43.7212494,-79.5117574,coffee_shop,Tim Hortons
+node,6356497976,Chatime,43.725226,-79.4489565,bubble_tea,Chatime
+node,6356497977,Starbucks,43.7252676,-79.4496982,coffee_shop,Starbucks
+node,6357208064,Tim Hortons,43.709512,-79.506029,coffee_shop,Tim Hortons
+node,6357274284,NUTTEA,43.6642676,-79.4146789,tea,NUTTEA
+node,6357286286,Dessert Fox,43.6642992,-79.4145521,,
+node,6357286293,The Alley,43.6643935,-79.4140777,,
+node,6357395959,Coffee Pot Cafe,43.7071107,-79.5052245,,
+node,6358218179,Jimmy's Coffee,43.646542,-79.406765,coffee_shop,
+node,6358218806,Strange Love,43.647274,-79.4030207,coffee_shop,
+node,6358218839,Tokyo Smoke,43.6466839,-79.4071318,coffee_shop,
+node,6358218850,Sud Forno,43.6462928,-79.4090188,,
+node,6358218863,Loftea,43.6459966,-79.4104775,tea,
+node,6358826488,Crosstown Coffee Bar,43.7045093,-79.4070785,coffee_shop,
+node,6359447133,CoCo Fresh Tea & Juice,43.6576054,-79.487698,bubble_tea,CoCo
+node,6362826745,Neo Coffee Bar,43.6506783,-79.3691506,coffee_shop;japanese,
+node,6362849592,Crestfallen,43.6640372,-79.4157186,,
+node,6363681167,Shawl Cafe,43.6617597,-79.4261628,,
+node,6365495219,Shirley's First Break,43.6634663,-79.3412849,coffee_shop,
+node,6369142340,Bailey's Cafe,43.6515505,-79.4058725,coffee_shop,
+node,6371265843,Hoang Viet,43.769471,-79.5218046,,
+node,6371361179,Cafe Paradise,43.6609689,-79.430865,coffee_shop,
+node,6371384058,Second Cup,43.6652646,-79.3810166,coffee_shop,Second Cup
+node,6371398864,Absolute Bakery & Cafe,43.6675093,-79.369125,,
+node,6373324120,Martin Coffee,43.657154,-79.4478518,,
+node,6375000271,Lafayette Cafe,43.653187,-79.4676485,,
+node,6375000281,Hannah's Cafe Bakery,43.6542533,-79.462785,,
+node,6379071807,Found Coffee Bellwoods,43.6470857,-79.4169554,,
+node,6382301631,AM Coffee Studio,43.6541175,-79.4520354,,
+node,6384671279,The Merseyside,43.6583916,-79.4531706,,
+node,6386832447,Hounslow's House,43.6739101,-79.4596979,,
+node,6386975388,Wallace Espresso,43.6429078,-79.4084233,coffee_shop,
+node,6386975395,The Coffee,43.6420014,-79.411428,coffee_shop,The Coffee
+node,6386975400,Simit & Chai,43.6429719,-79.406643,,
+node,6386975403,Shy Coffee Co.,43.6434843,-79.4055902,coffee_shop,
+node,6389349785,Cafe Santa Rosa,43.6392636,-79.4428264,coffee_shop,
+node,6402291799,Remarkable Bean,43.66193,-79.3356945,coffee_shop,
+node,6402678254,Mini Bar,43.6471614,-79.3960161,coffee_shop;sandwich;sushi,
+node,6414526660,D Spot Dessert Cafe,43.6232491,-79.5174377,,
+node,6415434647,Dark Horse Espresso Bar,43.6483434,-79.3902949,,
+node,6416423124,Zaza,43.6502414,-79.4817096,,
+node,6416513571,Real Fruit Bubble Tea,43.6504307,-79.3879849,bubble_tea,Real Fruit Bubble Tea
+node,6416544002,Starbucks,43.6504438,-79.387895,coffee_shop,Starbucks
+node,6419764357,Starbucks,43.6480721,-79.3964151,coffee_shop,Starbucks
+node,6422118764,Jimmy's Coffee,43.6187013,-79.4995995,,
+node,6433351331,Tim Hortons,43.6493894,-79.3910359,coffee_shop,Tim Hortons
+node,6434550073,Starbucks,43.6307521,-79.5556551,coffee_shop,Starbucks
+node,6436145687,The Frantic Monkey,43.6546311,-79.4208749,,
+node,6441699233,Sam James Coffee Bar,43.6503938,-79.376106,coffee_shop,
+node,6482625780,Songtsen Cafe,43.6403944,-79.4382371,tibetan,
+node,6483208772,Cutie Pie Cupcakes,43.6513676,-79.3970172,,
+node,6491425297,Good Good Coffee Bar,43.6653498,-79.4654464,coffee_shop,
+node,6493214401,Osprey,43.6390244,-79.4452675,coffee_shop,
+node,6493338039,Grocery Coffee,43.640066,-79.4398672,,
+node,6493349400,Tashi Delek Cafe,43.6402638,-79.4370457,,
+node,6495425602,Larry's Place,43.6412963,-79.4337947,coffee_shop,
+node,6532307631,Mos Mos,43.6576683,-79.3843196,coffee_shop,
+node,6533155273,Bellwoods Coffee + Gelato,43.6504346,-79.415855,coffee_shop;ice_cream,
+node,6533155282,Ohiru,43.6572404,-79.4046374,,
+node,6533178803,Tsu Chi,43.6553721,-79.4176246,japanese,
+node,6538318456,Real Fruit Bubble Tea,43.7169694,-79.4474628,bubble_tea,Real Fruit Bubble Tea
+node,6538382155,Soobrian Cafe & Variety,43.7566341,-79.5193176,,
+node,6538479485,Conteago,43.7227647,-79.4979792,,
+node,6542648930,Tim Hortons,43.7961136,-79.4232926,coffee_shop,Tim Hortons
+node,6542992475,Tim Hortons,43.7607337,-79.3264148,coffee_shop,Tim Hortons
+node,6543870357,Caffe Baci,43.7260504,-79.4802569,,
+node,6545238873,Real Fruit Bubble Tea,43.7964656,-79.4225433,bubble_tea,Real Fruit Bubble Tea
+node,6545307496,Timothy's,43.795874,-79.4223785,coffee_shop,Timothy's
+node,6545307525,Cafe on the Go,43.7961122,-79.4212967,,
+node,6545342849,Chaplus,43.7957146,-79.421442,,
+node,6545342866,Dolce Camerata,43.795417,-79.422059,italian,
+node,6545539560,Caffe e Latte,43.7302142,-79.4695375,,
+node,6545575955,Forget Me Not Cafe,43.7303991,-79.4665471,,
+node,6545586925,Cocoon Coffee,43.730802,-79.465136,,
+node,6545677406,Primo Expresso Bar,43.7321293,-79.4610443,,
+node,6545684809,Naimas Asian Fusion Cafe,43.7307752,-79.4587718,asian,
+node,6546233079,Tim Hortons,43.7322527,-79.4190791,coffee_shop,Tim Hortons
+node,6546274450,Tim Hortons,43.8253896,-79.2977645,coffee_shop,Tim Hortons
+node,6546274455,Tim Hortons,43.7832537,-79.204297,coffee_shop,Tim Hortons
+node,6546274457,Tim Hortons,43.8019668,-79.198171,coffee_shop,Tim Hortons
+node,6546274461,CoCo Fresh Tea & Juice,43.6587603,-79.3821233,bubble_tea,CoCo
+node,6546274463,Tim Hortons,43.7260948,-79.291865,coffee_shop,Tim Hortons
+node,6546274466,Country Style,43.7470159,-79.3846421,coffee_shop,Country Style
+node,6548219488,Tim Hortons,43.6471197,-79.3772145,coffee_shop,Tim Hortons
+node,6548219491,Tim Hortons,43.65078,-79.3678227,coffee_shop,Tim Hortons
+node,6548220174,Tim Hortons,43.7229198,-79.4560413,coffee_shop,Tim Hortons
+node,6548224598,Aroma Espresso Bar,43.6482284,-79.3762831,coffee_shop,Aroma Espresso Bar
+node,6548307628,Cafe + Dufferin Variety,43.7186445,-79.4560771,,
+node,6548584933,Caffe Sportivo,43.7089743,-79.4531669,,
+node,6549482216,Tony's Espresso Bar,43.707438,-79.4529339,,
+node,6549739302,Bookafe,43.6961263,-79.4489697,,
+node,6550543824,Hunter Coffee Shop,43.688948,-79.4324496,,
+node,6550554148,Queen Bean Coffee Roasters,43.6804342,-79.4173866,coffee_shop,
+node,6550554157,Tim Hortons,43.6734767,-79.4148737,coffee_shop,Tim Hortons
+node,6551628749,Mallo,43.6645776,-79.4108225,coffee_shop,
+node,6551651370,Club 285,43.7073763,-79.4429514,,
+node,6551651384,In Tre Cafe,43.7068863,-79.4425189,,
+node,6551656546,Central Cafe,43.642023,-79.4021763,,
+node,6551673034,Boba Boy,43.6405547,-79.3923988,,
+node,6554431761,Maggiano's Bakery Cafe,43.7205877,-79.5996128,,
+node,6554627497,Tim Hortons,43.7294681,-79.5984954,coffee_shop,Tim Hortons
+node,6561627011,Starbucks,43.7780718,-79.3433314,coffee_shop,Starbucks
+node,6567866471,Real Fruit Bubble Tea,43.6545794,-79.4357197,bubble_tea,Real Fruit Bubble Tea
+node,6568182611,Big Orange,43.6550212,-79.4340748,bubble_tea,Big Orange
+node,6570353541,CoCo Fresh Tea & Juice,43.7570597,-79.3128722,bubble_tea,CoCo
+node,6570406405,Real Fruit Bubble Tea,43.7574587,-79.3110488,bubble_tea,Real Fruit Bubble Tea
+node,6575077768,Real Fruit Bubble Tea,43.7234436,-79.2992354,bubble_tea,Real Fruit Bubble Tea
+node,6575151751,Country Style,43.7259325,-79.2997611,coffee_shop,Country Style
+node,6579003185,Tim Hortons,43.705924,-79.3468805,coffee_shop,Tim Hortons
+node,6579003188,Real Fruit Bubble Tea,43.7056734,-79.3464769,bubble_tea,Real Fruit Bubble Tea
+node,6579133109,Real Fruit Bubble Tea,43.6697845,-79.3392189,bubble_tea,Real Fruit Bubble Tea
+node,6584458745,Tim Hortons,43.7989409,-79.3186435,coffee_shop,Tim Hortons
+node,6589762648,Timothy's,43.7765832,-79.2582627,coffee_shop,Timothy's
+node,6589808693,Chatime,43.7753467,-79.2575049,bubble_tea,Chatime
+node,6589808695,Real Fruit Bubble Tea,43.7752799,-79.2572354,bubble_tea,Real Fruit Bubble Tea
+node,6589905582,Tim Hortons,43.7765803,-79.2589116,coffee_shop,Tim Hortons
+node,6589930599,Starbucks,43.7765048,-79.2575088,coffee_shop,Starbucks
+node,6589949048,Tim Hortons,43.7751262,-79.2567299,coffee_shop,Tim Hortons
+node,6592019130,Real Fruit Bubble Tea,43.7574456,-79.229979,bubble_tea,Real Fruit Bubble Tea
+node,6592650701,Starbucks,43.7430206,-79.2166235,coffee_shop,Starbucks
+node,6594754976,Tim Hortons,43.7759585,-79.2322393,coffee_shop,Tim Hortons
+node,6603455791,Real Fruit Bubble Tea,43.8065315,-79.2226922,bubble_tea,Real Fruit Bubble Tea
+node,6612435268,Starbucks,43.7975606,-79.1491531,coffee_shop,Starbucks
+node,6621682893,Crema Coffee Co.,43.6702058,-79.3851916,,
+node,6680667835,Real Fruit Bubble Tea,43.7622759,-79.409889,bubble_tea,Real Fruit Bubble Tea
+node,6680667836,Tim Hortons,43.7621603,-79.4097949,coffee_shop,Tim Hortons
+node,6680687582,Second Cup,43.7626068,-79.4102356,coffee_shop,Second Cup
+node,6685521586,Almond Butterfly,43.6520044,-79.4081333,,
+node,6685670039,Lady Marmalade,43.6631657,-79.3515167,,
+node,6685670267,Jimmy's Coffee,43.6597402,-79.3464991,,
+node,6685670275,Tim Hortons,43.6597067,-79.3466467,coffee_shop,Tim Hortons
+node,6685670360,Dark Horse Espresso Bar,43.6584396,-79.3524577,coffee_shop,
+node,6695912187,Starbucks,43.6442258,-79.5596007,coffee_shop,Starbucks
+node,6710464026,Starbucks,43.7076159,-79.398767,coffee_shop,Starbucks
+node,6711360546,Starbucks,43.6536227,-79.3800342,coffee_shop,Starbucks
+node,6711380522,Starbucks,43.6535889,-79.3807141,coffee_shop,Starbucks
+node,6712315919,Starbucks,43.6551035,-79.3811792,coffee_shop,Starbucks
+node,6712340465,Tim Hortons,43.6556731,-79.3815089,coffee_shop,Tim Hortons
+node,6712340474,Gong Cha,43.6547692,-79.3812114,bubble_tea,Gong Cha
+node,6712345512,Real Fruit Bubble Tea,43.6557501,-79.3810378,bubble_tea,Real Fruit Bubble Tea
+node,6713669652,Sister Sarah's Coffee Shop,43.6206997,-79.3733346,coffee_shop,
+node,6721474787,Aroma Espresso Bar,43.647857,-79.382963,coffee_shop,Aroma Espresso Bar
+node,6721474788,Treats,43.6477045,-79.3831049,,
+node,6779879375,Luba's Gourmet Coffee & Tea,43.6490998,-79.3718809,,
+node,6780423435,Tim Hortons,43.7607221,-79.499267,coffee_shop,Tim Hortons
+node,6780432359,Tim Hortons,43.6974841,-79.3290616,coffee_shop,Tim Hortons
+node,6780432532,Tim Hortons,43.6899362,-79.2886889,coffee_shop,Tim Hortons
+node,6810272357,Full of Beans,43.6496398,-79.427355,,
+node,6820660294,Tim Hortons,43.7732695,-79.259491,coffee_shop,Tim Hortons
+node,6820739736,Gayley's Cafe,43.649715,-79.4295014,,
+node,6840676690,Starving Artist,43.6697871,-79.4830759,coffee_shop,
+node,6845991722,Raid Gallery Cafe,43.6389954,-79.4454643,,
+node,6848476781,Mayil,43.6541393,-79.4244361,,
+node,6848957018,The Brockton Haunt Espresso,43.6523842,-79.4339757,,
+node,6848957024,Black Cat Espresso Bar,43.6527113,-79.4323714,,
+node,6848957026,,43.652793,-79.4319835,,
+node,6848957046,Barocco Nino,43.6534494,-79.4277211,,
+node,6925930586,Cafeteria,43.7274462,-79.3779543,,
+node,6935758149,Tim Hortons,43.8041923,-79.3373316,coffee_shop,Tim Hortons
+node,6959206657,Chatime,43.6556486,-79.3847106,bubble_tea,Chatime
+node,7021188472,Happy Coffee and Wine,43.6382576,-79.4312984,,
+node,7057335235,Tim Hortons,43.7647658,-79.1916188,coffee_shop,Tim Hortons
+node,7057379589,Tim Hortons,43.7698077,-79.1869857,coffee_shop,Tim Hortons
+node,7062381028,Riverdale Perk Cafe,43.6713,-79.3467,,
+node,7078198352,Second Cup,43.6654702,-79.3878852,coffee_shop,Second Cup
+node,7103380911,Starbucks,43.6335817,-79.4123711,coffee_shop,Starbucks
+node,7115387240,Tim Hortons,43.7900668,-79.3030157,coffee_shop,Tim Hortons
+node,7137825364,Pilot Coffee Roasters,43.6492761,-79.3807649,coffee_shop,
+node,7147311079,Tim Hortons,43.6599292,-79.3612956,coffee_shop,Tim Hortons
+node,7234386553,Trinity Square Cafe,43.6545837,-79.3814564,,
+node,7321216316,Peacock Cafe,43.8199001,-79.1816398,,
+node,7321216323,Palgong Tea,43.8223933,-79.1846062,,Booster Juice
+node,7348631706,Chatter,43.7450165,-79.3253484,,
+node,7376876376,Cocoa Latte,43.6816499,-79.4250661,,
+node,7528844943,Savoury Grounds Coffee Co.,43.6808466,-79.2870609,,
+node,7528860779,Tim Hortons,43.6787339,-79.298059,coffee_shop,Tim Hortons
+node,7528937348,The Porch Light,43.6807282,-79.2865495,,
+node,7528937355,Starbucks,43.6808732,-79.2849869,coffee_shop,Starbucks
+node,7528939010,Tony & Claudia's,43.6823959,-79.2795131,,
+node,7528939510,The Birch Cliff,43.6920303,-79.2640951,,
+node,7553002951,Tim Hortons,43.7197825,-79.4308602,coffee_shop,Tim Hortons
+node,7553002960,Auleaf Cafe,43.7181057,-79.4291863,,
+node,7553017338,Pantry Cafe,43.7280924,-79.432011,,
+node,7553496735,Euro Cafe,43.7031791,-79.4771514,,
+node,7553496744,Las Americas Cafe,43.702161,-79.4769273,,
+node,7553496746,Second Cup,43.7323543,-79.4553727,coffee_shop,Second Cup
+node,7553541461,Chat One,43.7364554,-79.4372697,,
+node,7553559089,Starbucks,43.7331728,-79.4509828,coffee_shop,Starbucks
+node,7553599308,Aroma Espresso Bar,43.7386791,-79.4339843,coffee_shop,Aroma Espresso Bar
+node,7553898749,Starbucks,43.7586843,-79.4662575,coffee_shop,Starbucks
+node,7557019455,Tim Hortons,43.7511632,-79.4570065,coffee_shop,Tim Hortons
+node,7557459425,3SK Cafe,43.7000701,-79.4305933,,
+node,7559831082,Mello's Cafe,43.6912462,-79.4710263,,
+node,7559869375,Tim Hortons,43.7353483,-79.4197039,coffee_shop,Tim Hortons
+node,7559883060,Aroma Espresso Bar,43.7359994,-79.420353,coffee_shop,Aroma Espresso Bar
+node,7567862613,Isle of Coffee,43.7044729,-79.4098398,,
+node,7571810317,Starbucks,43.667181,-79.4883,coffee_shop,Starbucks
+node,7571868234,Tim Hortons,43.67239,-79.4693354,coffee_shop,Tim Hortons
+node,7575669936,Kung Fu Tea,43.6643177,-79.4144339,bubble_tea,Kung Fu Tea
+node,7575681806,Nine Tails,43.6641344,-79.4153019,,
+node,7576536075,Settemila Cafe,43.6767593,-79.4491925,,
+node,7576536077,Chappa Corner Cafe,43.6768468,-79.4488359,,
+node,7578507797,,43.676457,-79.4489221,,
+node,7578540533,Public,43.6774543,-79.4459921,,
+node,7578540536,Tricolore Bar & Caffe,43.677507,-79.4457553,,
+node,7578540547,Spielhaus Board Games Cafe,43.6775726,-79.44379,,
+node,7578578717,Wallace Espresso,43.6778502,-79.4420233,,
+node,7578594172,Mofer Coffee,43.6790265,-79.4389135,coffee_shop,
+node,7578594177,Starving Artist,43.6788839,-79.4396135,,
+node,7578971619,Dismount,43.6798533,-79.4352123,,
+node,7578997169,Lion Coffee,43.6798969,-79.4334194,,
+node,7580591505,Le Bleu Coffee,43.681578,-79.427172,coffee_shop,
+node,7580591508,Silk 111,43.6814638,-79.4259149,,
+node,7580628759,Fleur de Jour,43.6821022,-79.4225482,,
+node,7600231103,Caphelia Cafe,43.6667256,-79.3856434,,
+node,7684923262,Zagmachi,43.6675184,-79.3852989,,
+node,7685020700,The Peachy,43.6659141,-79.385163,korean,
+node,7685208025,Le Beau,43.6606991,-79.3594438,,
+node,7685231328,Tim Hortons,43.6569531,-79.3742614,coffee_shop,Tim Hortons
+node,7707128927,L’Amour Cafe and Pastry,43.7118989,-79.3912623,,
+node,7745558732,Tim Hortons,43.7378009,-79.2405286,coffee_shop,Tim Hortons
+node,7751484533,Nile Palace Cafe,43.7447512,-79.2988458,,
+node,7751495274,Puffs & Rings,43.745145,-79.2990777,shisha_lounge,
+node,7751916048,Tea Time Cafe,43.7446806,-79.2961178,,
+node,7751944165,3 Kings Cafe,43.7451445,-79.2940666,,
+node,7751944171,Crème et Miel,43.7452994,-79.2932607,,
+node,7751993190,Coffee In,43.7473811,-79.2834989,,
+node,7759269232,Tim Hortons,43.7501107,-79.273994,coffee_shop,Tim Hortons
+node,7766353005,Tim Hortons,43.7574848,-79.2347185,coffee_shop,Tim Hortons
+node,7766394986,Carbonic Coffee,43.6558754,-79.3935055,,
+node,7775697412,Tim Hortons,43.6951795,-79.3429051,coffee_shop,Tim Hortons
+node,7798343085,Milky’s,43.6522487,-79.406892,,
+node,7798592785,I deal coffee,43.6551111,-79.4033649,coffee_shop,
+node,7835399683,Chatime,43.6662349,-79.3852678,bubble_tea,Chatime
+node,7835427950,Molly Tea,43.6656405,-79.3850153,tea,
+node,7835431886,Kung Fu Tea,43.6652266,-79.3848483,bubble_tea,Kung Fu Tea
+node,7836197698,Dinh Tailor Coffee,43.7092442,-79.3851311,,
+node,7856569570,Tibet Cafe,43.6538825,-79.4002772,,
+node,7856569576,Lola,43.653804,-79.4005072,,
+node,7879268521,Starbucks,43.6574811,-79.374497,coffee_shop,Starbucks
+node,7913245202,Tim Hortons,43.7194351,-79.4679859,coffee_shop,Tim Hortons
+node,8011213017,Tuck Shop Provisions,43.6512537,-79.389987,,
+node,8044564344,Pop Coffee Works,43.6564577,-79.3745612,,
+node,8045224139,Bulldog Coffee,43.6610878,-79.3785984,,
+node,8045244119,Goldstruck Coffee,43.6612392,-79.3815585,,
+node,8045253714,Neo Coffee Bar,43.6601139,-79.3858466,coffee_shop,
+node,8045255350,Hailed Coffee,43.6589387,-79.3838272,,
+node,8054372748,Black Wolf Coffee,43.6590261,-79.384827,regional,
+node,8076065270,La Barista Cafe,43.6887182,-79.3934946,,
+node,8094670575,Starbucks,43.7663146,-79.4762178,coffee_shop,Starbucks
+node,8146239103,Starbucks,43.660321,-79.342601,coffee_shop,Starbucks
+node,8168634782,Aroma Espresso Bar,43.6719642,-79.3778669,coffee_shop,Aroma Espresso Bar
+node,8356219040,Aroma Espresso Bar,43.7709318,-79.331628,coffee_shop,Aroma Espresso Bar
+node,8502470633,Palgong Tea,43.7794362,-79.4179914,bubble_tea,
+node,8502485054,Canephora Cafe & Bakery,43.7758468,-79.4341731,,
+node,8518300322,Bell Tower Coffee + Community,43.6770224,-79.3978192,,
+node,8575717843,Fahrenheit Coffee,43.646942,-79.4006862,coffee_shop,
+node,8593120948,Starbucks,43.7351776,-79.4038005,coffee_shop,Starbucks
+node,8710311441,Tim Hortons,43.8128767,-79.2418498,coffee_shop,Tim Hortons
+node,8737805818,Starbucks,43.6619506,-79.3799373,coffee_shop,Starbucks
+node,8757749707,Himalaya Jaya House,43.7133813,-79.3999657,,
+node,8828553603,Aroma Espresso Bar,43.7693022,-79.4137502,coffee_shop,Aroma Espresso Bar
+node,8829669231,Atlantis Coffee,43.6389855,-79.4440048,coffee_shop,
+node,8911556690,Mofer Coffee,43.6442578,-79.4175904,coffee_shop,
+node,8921496372,Tim Hortons,43.6778976,-79.3509351,coffee_shop,Tim Hortons
+node,8941500696,De Mello Coffee x Chocolat de Kat,43.6807789,-79.4309808,coffee_shop;chocolate,
+node,8941617794,Primose Bagel Co.,43.6854767,-79.4378276,bagel,
+node,8947549021,Tim Hortons,43.6236627,-79.5156725,coffee_shop,Tim Hortons
+node,8975461069,Starbucks,43.6965628,-79.3708578,coffee_shop,Starbucks
+node,9118725220,The Arch Café,43.6564323,-79.4026231,,
+node,9123316758,Sam James Coffee Bar,43.6418034,-79.4326296,coffee_shop,
+node,9136486525,CoCo Fresh Tea & Juice,43.8059706,-79.2233277,bubble_tea,CoCo
+node,9139130725,CoCo Fresh Tea & Juice,43.771853,-79.2804274,bubble_tea,CoCo
+node,9156583245,CoCo Fresh Tea & Juice,43.6558216,-79.3988967,bubble_tea,CoCo
+node,9176691521,10 Dean,43.6584486,-79.4005544,,
+node,9176691532,Little Pebbles,43.6549934,-79.4001248,,
+node,9176691555,Palgong Tea,43.6663211,-79.4060638,bubble_tea,
+node,9177367328,Bom Dia,43.642048,-79.4289036,portuguese,
+node,9214998844,Chatime,43.7977293,-79.419589,bubble_tea,Chatime
+node,9236767864,Bean + Pearl,43.6409026,-79.4017533,bubble_tea,
+node,9236767867,Milky's Cloud Room,43.640988,-79.4017841,,
+node,9257881850,East Toronto Coffee Co.,43.6872785,-79.3073265,,
+node,9331101406,Ballissimo Loukoumades Bar,43.6972387,-79.3290384,greek,
+node,9423475579,Tango Palace Coffee Company,43.6625885,-79.3337442,,
+node,9438776130,world cafe,43.6592294,-79.383107,coffee_shop,
+node,9441154267,Botham's,43.6653517,-79.4652043,,
+node,9441154269,Full Stop,43.6655385,-79.4665327,coffee_shop,
+node,9512647978,Starbucks,43.6720668,-79.4204831,coffee_shop,Starbucks
+node,9690893867,Tim Hortons,43.6410711,-79.3811543,coffee_shop,Tim Hortons
+node,9696667417,grounded. Coffeebar,43.7345463,-79.4048313,,
+node,9697578104,Tim Hortons,43.7733743,-79.4435219,coffee_shop,Tim Hortons
+node,9706265273,I Deal On the Park,43.6472332,-79.443972,,
+node,9722661997,18feet,43.6998814,-79.396678,,
+node,9754968442,Starbucks,43.7073165,-79.3948201,coffee_shop,Starbucks
+node,9764553784,Chatime,43.6418938,-79.5364896,bubble_tea,Chatime
+node,9793931790,PILOT Coffee Roasters,43.6878339,-79.3937462,,
+node,9832019653,Imanishi Sando Bar,43.6470785,-79.4336386,japanese,
+node,9845557068,Café Locale,43.638647,-79.3855366,,
+node,9856625612,Aroma Espresso Bar,43.6386656,-79.4002768,coffee_shop,Aroma Espresso Bar
+node,9884824917,Cafe Oro di Napoli,43.651252,-79.3720516,,
+node,9911551499,Starbucks,43.686239,-79.5965723,coffee_shop,Starbucks
+node,9915248526,Second Cup,43.6538431,-79.4048579,coffee_shop,Second Cup
+node,9915251252,Tim Hortons,43.6531785,-79.4058619,coffee_shop,Tim Hortons
+node,9918175296,Country Style,43.7989844,-79.2621613,coffee_shop,Country Style
+node,9941322000,The Sweet Gallery Cafe,43.6373347,-79.5310996,,
+node,9943432952,Creek Coffee & Co,43.7838081,-79.1701876,coffee,
+node,9963662342,Gong Cha,43.6338889,-79.5418479,bubble_tea,Gong Cha
+node,10019777528,Starbucks,43.6697356,-79.3021255,coffee_shop,Starbucks
+node,10103839604,Tim Hortons,43.7149774,-79.6050492,coffee_shop,Tim Hortons
+node,10110247349,Starbucks,43.6585599,-79.3956077,coffee_shop,Starbucks
+node,10138602099,Cheese Boutique Cafe,43.6375589,-79.4745298,,
+node,10155708532,Caffé Demetre,43.6777703,-79.3516273,,
+node,10157484961,Wildhearts Cafe,43.6653958,-79.4084003,,
+node,10159822795,Gong Cha,43.6777003,-79.3503763,bubble_tea,Gong Cha
+node,10159822808,Bom Dia Cafe and Bakery,43.6774418,-79.3517247,,
+node,10159937571,Remarkable Bean,43.6728981,-79.287039,coffee_shop,
+node,10164765325,Si Espresso Coffee,43.6757434,-79.358591,,
+node,10171954868,The Shmooz,43.6751808,-79.3434749,,
+node,10307872743,Starbucks,43.6392179,-79.4103605,coffee_shop,Starbucks
+node,10649022820,Tim Hortons,43.6720352,-79.3877485,coffee_shop,Tim Hortons
+node,10649409435,Phyllo Cafe,43.6892671,-79.3489219,,
+node,10656055552,Anotherland Coffee,43.7593477,-79.4108756,,
+node,10671895841,A-ok Cafe,43.6702197,-79.387813,,
+node,10672000272,A-ok Cafe,43.6116885,-79.557452,,
+node,10678731432,Kome Yogurt,43.6515606,-79.3904494,,
+node,10706722819,Holo Tea & Cafe,43.6235826,-79.4804874,bubble_tea,
+node,10712939950,Mr. Sun,43.7771747,-79.4153699,bubble_tea,
+node,10820592986,Aroma Espresso Bar,43.7745409,-79.5011588,coffee_shop,Aroma Espresso Bar
+node,10828429344,Saving Mondays,43.6644714,-79.4560104,,
+node,10838196674,Sonia Food Cafe,43.705856,-79.4885902,,
+node,10874898250,Tiny Cafe,43.6407138,-79.4381737,,
+node,10879354442,Café Reznikoff,43.6631115,-79.3977806,coffee_shop;snacks,
+node,10885250292,Kung Fu Tea,43.6770692,-79.3536558,bubble_tea,Kung Fu Tea
+node,10920689889,Moss Park Espresso,43.6540012,-79.3712759,,
+node,10920733207,Third Wave Coffee Inc.,43.6494091,-79.3742444,,
+node,10920735417,Liu Loqum Atelier,43.6556091,-79.4111557,,
+node,10925027992,Social Art Gallery & Cafe,43.6542472,-79.3925054,,
+node,10938415050,Starbucks,43.706153,-79.397978,coffee_shop,Starbucks
+node,10977958566,Java Joe’s,43.7609648,-79.4122995,,
+node,11038058407,Versus,43.6512802,-79.3752539,,
+node,11038159605,Kung Fu Tea,43.6703393,-79.3913667,bubble_tea,Kung Fu Tea
+node,11051710229,Starbucks,43.6544495,-79.387717,coffee_shop,Starbucks
+node,11053413494,The Library Specialty Coffee,43.6543308,-79.3908337,coffee_shop,
+node,11067045281,CoCo Fresh Tea & Juice,43.7085332,-79.3989619,bubble_tea,CoCo
+node,11072183535,% Arabica,43.6455575,-79.3800572,coffee_shop,% Arabica
+node,11072190773,Starbucks,43.6467975,-79.389607,coffee_shop,Starbucks
+node,11090385341,HEY JUICE,43.8154507,-79.3224182,bubble_tea,
+node,11090538717,Rooms Coffee,43.6451662,-79.4299199,coffee_shop,
+node,11090819628,Gaspar Cafe,43.6609399,-79.4532643,,
+node,11113332432,Carlaw Pastery and Cafe,43.6706283,-79.3437593,,
+node,11113332433,Caramel Coffee Shop,43.680733,-79.3376068,coffee_shop,
+node,11114383380,Lamoon Thai Cafe,43.6663131,-79.3480687,,
+node,11114385666,Bevy@The Combine,43.6451447,-79.3888093,,
+node,11114385732,Pigeon Café & Bar,43.6460806,-79.3914354,,
+node,11114390408,Rooms Coffee | 915 Dupont,43.6700745,-79.4294968,japanese,
+node,11114404852,Patco Cafe,43.6419716,-79.4076462,,
+node,11114404915,Bevy,43.6615049,-79.3572878,,
+node,11136997283,Balzac’s Coffee Roasters,43.6312789,-79.3959332,,
+node,11172137718,Black Dog Cafe,43.6803572,-79.2905707,,
+node,11198708278,Mochi Doh,43.8179929,-79.3053129,dessert,
+node,11202880480,Beyond Delish,43.7864358,-79.4457107,,
+node,11217986068,Aunty Em's Deli & Coffee,43.6747808,-79.4581459,coffee_shop;sandwich;dessert,
+node,11226006472,CoCo Fresh Tea & Juice,43.773859,-79.2574876,bubble_tea,CoCo
+node,11229155916,Sleepy Pete's,43.6543709,-79.4004479,,
+node,11232775896,Cafe Wanoka,43.7888122,-79.2688454,,
+node,11236899433,Capulus Coffee House,43.6798628,-79.4334871,coffee_shop,
+node,11281659540,Fungo Cafe,43.6432409,-79.406812,,
+node,11301266117,For The Win Board Game Cafe,43.7286803,-79.4033481,,
+node,11357167498,Tim Hortons,43.7346508,-79.617668,coffee_shop,Tim Hortons
+node,11364677607,Jarvis house bed and breakfast,43.6629201,-79.3771404,,
+node,11365454345,Hale Coffee,43.6705816,-79.3828087,coffee_shop,
+node,11382823910,Comic Tea,43.6690217,-79.4838788,bubble_tea,
+node,11384840089,Terima Coffee + Pantry Bar,43.6658474,-79.3937585,,
+node,11405532570,Tim Hortons,43.6513655,-79.4511683,coffee_shop,Tim Hortons
+node,11411061715,Balzac’s,43.6696728,-79.4485219,,
+node,11415810953,Real Fruit Bubble Tea,43.6113783,-79.5555991,bubble_tea,Real Fruit Bubble Tea
+node,11421905769,Summer's,43.6708347,-79.3921015,,
+node,11429918643,Quantum Coffee,43.642342,-79.3966595,,
+node,11429925732,De Mello Coffee,43.6429981,-79.3945335,,
+node,11449902169,De Mello Coffee at The Well,43.6431932,-79.3944576,,
+node,11467258281,Royaltea,43.6529463,-79.3974921,bubble_tea,Royaltea
+node,11481006269,Higher,43.6529389,-79.3975283,bubble_tea,
+node,11482874258,Edill's Coffee House,43.763344,-79.2806131,coffee_shop,
+node,11484369106,,43.6529345,-79.3975549,bubble_tea,
+node,11494379759,Tim Hortons,43.6575306,-79.4525771,coffee_shop,Tim Hortons
+node,11498677775,Cotti Coffee,43.658117,-79.3857296,coffee_shop,
+node,11498783806,The Alley,43.6595509,-79.3831239,bubble_tea,The Alley
+node,11543893452,Caffiends,43.6670272,-79.3920908,,
+node,11552544668,Starbucks,43.6425107,-79.382449,coffee_shop,Starbucks
+node,11552562249,Mizzica Cafe,43.6497415,-79.3911828,,
+node,11569430342,Tim Hortons,43.6426291,-79.425869,coffee_shop,Tim Hortons
+node,11582915484,Gong Cha,43.7014705,-79.3970514,bubble_tea,Gong Cha
+node,11618878435,Second Cup,43.660718,-79.3964311,coffee_shop,Second Cup
+node,11632767198,The Brick Room Coffee,43.64627,-79.3789339,,
+node,11663320718,SUPERNOVA Coffee,43.6808641,-79.3575804,coffee_shop,
+node,11663569204,Café Le Neuf,43.6458969,-79.3650184,,
+node,11663583534,Lazy Barista,43.6443956,-79.3669356,,
+node,11663588362,Mofer Coffee,43.6443958,-79.3681953,,
+node,11663595155,Gong Cha,43.6450078,-79.3642125,bubble_tea,Gong Cha
+node,11663787956,Maha’s Cafe,43.6612426,-79.339814,,
+node,11673937617,Oakham Cafe,43.6578781,-79.3783187,burger;sandwich;pasta,
+node,11715314224,Kafe Dáki,43.6824918,-79.4369875,,
+node,11763892482,Starbucks,43.5976012,-79.5176448,coffee_shop,Starbucks
+node,11800686187,Rooms,43.6560338,-79.3928397,,
+node,11800697933,Butter & Blue,43.6560731,-79.3925775,,
+node,11800717136,The Sweet Spot,43.6558365,-79.3936373,asian;bubble_tea,
+node,11803596875,Honeymoon Dessert,43.6574116,-79.4001155,,
+node,11803596893,Yogo Yugurt,43.6563399,-79.399109,,
+node,11803596907,Project Seoul,43.655464,-79.3987144,,
+node,11803596914,Shuyi Tealicious,43.6555592,-79.3994112,bubble_tea,Shuyi Tealicious
+node,11803596926,Ninetails Coffee,43.6556618,-79.3994306,,
+node,11839427294,Out Of This World Café,43.6436173,-79.4205854,coffee_shop,
+node,11863310698,imPerfect Fresh Café,43.6382411,-79.5371545,coffee_shop,
+node,11877525932,Tim Hortons,43.6461653,-79.3844263,coffee_shop,Tim Hortons
+node,11891397686,Kung Fu Tea,43.624198,-79.478114,bubble_tea,Kung Fu Tea
+node,11891397693,Zen Cafe+,43.6232728,-79.4787208,,
+node,11926057096,Tim Hortons,43.6513566,-79.3746904,coffee_shop,Tim Hortons
+node,11973872788,Oro Cafe and Eatery,43.6724842,-79.2877091,,
+node,11973982152,The Island Cafe,43.6308183,-79.3563808,ice_cream;salad;sandwich,
+node,11978690557,Issho Bakery,43.6654364,-79.3522327,coffee_shop;dessert,
+node,11979226232,Espresso House,43.6424455,-79.3747186,,
+node,11980955327,Enjoy the Tea,43.6531965,-79.3962388,bubble_tea,
+node,11980955329,Chicha San Chen,43.6530079,-79.3961754,bubble_tea,Chicha San Chen
+node,11989158556,Java Joe’s,43.645503,-79.5670192,,
+node,12023030428,Dark Horse Espresso Bar,43.6436612,-79.3706478,,
+node,12042628338,Kung Fu Tea,43.7137632,-79.5567401,bubble_tea,Kung Fu Tea
+node,12075894640,The Grind,43.6826191,-79.4218793,,
+node,12080345920,The Rosemount Café,43.7018052,-79.5147698,coffee_shop,
+node,12086491083,XO Bisous,43.6825589,-79.422191,,
+node,12091108917,The Sweet Escape,43.6506978,-79.3585279,,
+node,12149932787,Breadflour,43.6375511,-79.4228785,,
+node,12150082631,El Almacen,43.70047,-79.5168076,,
+node,12167285877,ITS TEA,43.7706604,-79.4130349,bubble_tea,
+node,12173946076,Trinacria,43.6776514,-79.3521576,,
+node,12184388048,Arvo,43.6386666,-79.4209211,coffee_shop,
+node,12190675567,Evana Patisserie & Cafe,43.8151726,-79.2962003,cake,
+node,12190675568,Kanae Cafe,43.8151268,-79.2964107,cake;japanese,
+node,12190675572,Matcha Yuzu,43.8149624,-79.296326,bread;coffee_shop,
+node,12190946447,Yi Fang Tea,43.8220981,-79.2985265,bubble_tea,Yi Fang Tea
+node,12190946449,Shuyi Tealicious,43.822476,-79.2987013,bubble_tea,Shuyi Tealicious
+node,12198108801,De Mello Coffee,43.7098404,-79.3988283,coffee_shop,
+node,12228671184,Renard and Company,43.677652,-79.4273032,,
+node,12244619101,Nicaroma Café,43.6870796,-79.4385252,,
+node,12253332469,Ka-Nom,43.6535067,-79.3907318,thai,
+node,12264525201,Oakwood Espresso,43.6864555,-79.4387714,coffee_shop,
+node,12270310643,Starbucks,43.7705308,-79.5436175,coffee_shop,Starbucks
+node,12324615151,Brandor Coffee,43.6472156,-79.384831,coffee_shop,
+node,12326900682,Gong Cha,43.6377249,-79.3994189,bubble_tea,Gong Cha
+node,12332810169,Le Petit Pain,43.6890879,-79.4126925,,
+node,12345043658,Columbus Café & Co,43.6477089,-79.3898723,,
+node,12382780636,Tim Hortons,43.6612581,-79.3587011,coffee_shop,Tim Hortons
+node,12387386844,Os Amigos,43.6825847,-79.463023,,
+node,12409850749,Tim Hortons,43.6387468,-79.4277563,coffee_shop,Tim Hortons
+node,12544901402,Cafe 059,43.6597798,-79.4006738,,
+node,12550219252,Bloom Cafe,43.6655017,-79.3849614,Cafe,
+node,12563315630,Second Cup,43.6608271,-79.4006726,coffee_shop,Second Cup
+node,12563535086,Tim Hortons,43.6452741,-79.3694935,coffee_shop,Tim Hortons
+node,12563538446,Starbucks,43.6444061,-79.3699915,coffee_shop,Starbucks
+node,12590737060,Michel’s Bakery Café,43.6483045,-79.3828972,coffee_shop,
+node,12591845858,Tim Hortons,43.7565583,-79.248122,coffee_shop,Tim Hortons
+node,12629114050,Chatime,43.7285171,-79.4783166,bubble_tea,Chatime
+node,12629174268,Starbucks,43.7250127,-79.4550484,coffee_shop,Starbucks
+node,12629225272,Real Fruit Bubble Tea,43.7266821,-79.4506356,bubble_tea,Real Fruit Bubble Tea
+node,12639653537,Ripley's Café,43.6422635,-79.3862558,,
+node,12641884112,Starbucks,43.6575313,-79.3869932,coffee_shop,Starbucks
+node,12645744525,Vintage Cat Cafe Toronto,43.6771775,-79.4471613,coffee_shop,
+node,12650268801,Berkeley Cafe,43.6500083,-79.3638647,sandwich,
+node,12682724060,Palmer Coffee,43.6517259,-79.4729834,,
+node,12688672383,First and Last Coffee Shop,43.674337,-79.4095428,coffee_shop,
+node,12688672384,Typist Studios and Coffee,43.6741475,-79.4108759,,
+node,12714603064,Dark Horse,43.6704824,-79.4348371,coffee_shop;pastry;bakery,
+node,12727136506,Cộng Cà Phê,43.6577039,-79.3819575,vietnamese,
+node,12732329108,CoCo Fresh Tea & Juice,43.8118089,-79.3024242,bubble_tea,CoCo
+node,12742184840,Second Cup,43.635754,-79.5381632,coffee_shop,Second Cup
+node,12750347202,Harmony Cafe,43.6549861,-79.4029018,coffee_shop;pizza,
+node,12750668515,Lermer,43.6508797,-79.4763294,coffee_shop;bubble_tea;vietnamese,
+node,12753097966,Krossroad Cafe,43.6709269,-79.421401,,
+node,12756190453,Wey Cup,43.6750833,-79.4066052,mexican,
+node,12768983148,XO Bisous,43.6825829,-79.422226,,
+node,12769370569,Avenue Cafe & Bistro,43.6552247,-79.3889093,coffee_shop;cake;bagel;bistro,Café Dépôt
+node,12770920646,Tiger Sugar,43.7098859,-79.3988474,bubble_tea,Tiger Sugar
+node,12770986189,Açai Brazil,43.701758,-79.3971053,bubble_tea,
+node,12783363732,Cafe Pastel,43.6515389,-79.4106254,,
+node,12785181682,Nabulu Coffee,43.666102,-79.3856225,coffee_shop,
+node,12785228838,Togo cafe,43.6657468,-79.3859596,coffee_shop,
+node,12785231968,Heytea,43.663393,-79.3836577,bubble_tea,Heytea
+node,12785242442,Cha Payom,43.6645122,-79.3855534,bubble_tea,Cha Payom
+node,12790953142,Kung Fu Tea,43.8248307,-79.3007285,bubble_tea,Kung Fu Tea
+node,12791886682,Gong Cha,43.6112997,-79.5576241,bubble_tea,Gong Cha
+node,12791937821,CoCo Fresh Tea & Juice,43.6132281,-79.5585871,bubble_tea,CoCo
+node,12801278548,Real Fruit Bubble Tea,43.6453521,-79.522709,bubble_tea,Real Fruit Bubble Tea
+node,12804897889,KAVA COFFE HOUSE,43.6713994,-79.3714777,,
+node,12804954343,Tim Hortons,43.6457537,-79.3930411,coffee_shop,Tim Hortons
+node,12817266839,Spirited,43.6642915,-79.4110239,,
+node,12823399351,My Tea Bar,43.6418156,-79.4286417,,
+node,12823412366,Starbucks,43.6467607,-79.380202,coffee_shop,Starbucks
+node,12823415348,Pilot Coffee Roasters,43.6451238,-79.3810591,,
+node,12823416917,Dineen Coffee,43.6477356,-79.3854799,coffee_shop,
+node,12830420847,Found Coffee | Front,43.6443912,-79.3853835,coffee_shop;pastry;vegemite,
+node,12840854823,Ichi Cha Bubble Tea,43.6550827,-79.4593452,bubble_tea,
+node,12843046873,Starbucks,43.648782,-79.3790213,coffee_shop,Starbucks
+node,12843046875,Mos Mos Coffee,43.6479959,-79.3792491,coffee_shop,
+node,12843077272,Isabella’s Donuts,43.6451966,-79.3805165,,
+node,12843082731,Tim Hortons,43.644246,-79.3793436,coffee_shop,Tim Hortons
+node,12849797697,Ivy Coffee Shop,43.6399902,-79.3795557,coffee_shop,
+node,12851219301,Cafe Landwer,43.7334491,-79.4197992,,
+node,12860993263,Chloe Cafe,43.6415584,-79.4312651,,
+node,12891812566,Mofer Coffee,43.6469336,-79.3840914,,
+node,12893596909,The Alley,43.6445239,-79.3801307,bubble_tea,
+node,12898127239,The Green Isle,43.8065585,-79.3385297,bubble_tea,
+node,12898232998,Starbucks,43.7418579,-79.3134284,coffee_shop,Starbucks
+node,12904007162,The Cozy Bean,43.6935917,-79.2768669,coffee_shop,
+node,12906402156,Sam James,43.6474152,-79.4198423,coffee_shop,
+node,12919738545,Haute Coffee,43.6756549,-79.4027325,,
+node,12941546602,Daily Ritual Cafe,43.6489382,-79.378334,,
+node,12941699622,Coffee Lunar,43.7898721,-79.4183141,,
+node,12968468120,Boba Stop,43.7423045,-79.2609159,bubble_tea,
+node,12968478967,Birchmount Cafe,43.7075705,-79.2696323,,
+node,12972074252,Tim Hortons,43.6677884,-79.4424274,coffee_shop,Tim Hortons
+node,12978892901,Si Bubble Tea,43.6959124,-79.2761416,bubble_tea,
+node,12980100834,Ethio Natural Coffee,43.6926839,-79.2825475,,
+node,12980100842,Addis Cafe,43.6926589,-79.2837561,,
+node,12980112583,,43.6908878,-79.2905385,bubble_tea,
+node,12982559671,Cha Express,43.6908019,-79.2912153,bubble_tea,
+node,12982624148,Jemila Dubai Coffee,43.6897967,-79.2953353,,
+node,12986702966,Rehoboth Cafe,43.6888924,-79.2974876,,
+node,12986702998,Great Fruit Bubble Tea,43.6885387,-79.3008335,bubble_tea,
+node,12993362482,Cafe Juventus,43.6865123,-79.3099145,,
+node,12994481687,Vereda Central,43.6473454,-79.3826195,,
+node,12994637925,Mado Café & Bakery,43.6428395,-79.3961983,,
+node,12994984295,Poured Coffee,43.6860516,-79.3104481,,
+node,12995038530,Qahwah Cafe & Lounge,43.6861917,-79.3113035,,
+node,12995038539,Zav Coffee Shop & Gallery,43.6856034,-79.3139504,,
+node,12995864447,Cafe Cocoro,43.6850807,-79.314887,,
+node,12995864454,Quattro Amici Cafe,43.6854273,-79.3147385,,
+node,12995864467,Seb's Cappuccino,43.6851231,-79.316192,,
+node,12996234409,Fresh Art Studio & Cafe,43.6844862,-79.3176315,,
+node,12996598348,The Coffee,43.6426819,-79.393134,coffee_shop,The Coffee
+node,12997418457,Abol Espresso Bar,43.6828193,-79.3268731,,
+node,12997929586,Jimma Coffee,43.6818797,-79.3297294,,
+node,13003426732,Tiny’s General Store,43.6676081,-79.4162497,coffee_shop;ice_cream,
+node,13007739908,Ariam Cafe,43.6819028,-79.3311659,,
+node,13013615441,521 Cafe & Bar,43.6781161,-79.3482508,,
+node,13013618100,Romeo & Juliet Cafe,43.6790653,-79.3434548,,
+node,13013621505,Cafe Vincenzo,43.6789069,-79.34414,,
+node,13013621507,6Thirty Coffee and Co.,43.6789675,-79.3455478,,
+node,13013621511,Starbucks,43.678802,-79.3463105,coffee_shop,Starbucks
+node,13016311590,Bubble Baby,43.6391687,-79.3856737,bubble_tea,
+node,13016349407,Red Rocket Coffee,43.678219,-79.3492816,coffee_shop,
+node,13028429350,Playground Cafe,43.6649315,-79.368458,,
+node,13028454919,La Gloria,43.6635653,-79.367494,,
+node,13036382787,Epos Coffee,43.662389,-79.3675955,,
+node,13039839995,Charmaine Sweets,43.7143431,-79.3599505,,
+node,13041844671,Hale Coffee,43.6504023,-79.3780035,,
+node,13042301899,Tim Hortons,43.7153294,-79.6016323,coffee_shop,Tim Hortons
+node,13048879230,18 Feet,43.6601731,-79.3777763,coffee_shop,
+node,13087998367,Riverdale Perk Cafe,43.6703536,-79.3463627,,
+node,13088158058,Tim Hortons,43.6802833,-79.4333602,coffee_shop,Tim Hortons
+node,13094846716,Marjo Bakery,43.7886659,-79.3306249,coffee_shop,
+node,13094910964,Jasmine Sweets,43.7756089,-79.330941,ice_cream;crepe,
+node,13094910965,Aashro Cafe,43.7757363,-79.330927,coffee_shop,
+node,13095333608,Fresh Cup,43.7858582,-79.3527071,bubble_tea,
+node,13097353515,Tea Time,43.8078871,-79.3566882,bubble_tea,
+node,13098959201,The Roasted Nut,43.6459589,-79.4106644,,
+node,13107676342,Presotea,43.7989275,-79.3187394,bubble_tea,
+node,13109126079,Tim Hortons,43.8199057,-79.1815432,coffee_shop,Tim Hortons
+node,13109224757,Palgong Tea,43.8188787,-79.1873621,bubble_tea,
+node,13109281842,Palgong Tea,43.8178222,-79.1832536,bubble_tea,
+node,13115049511,The Break Café,43.7713841,-79.5037996,,
+node,13115649911,Runaway Cafe,43.6276301,-79.3568435,coffee_shop,
+node,13117181662,Alternity,43.6671492,-79.4004288,,
+node,13125927816,Avenue Cafe,43.6569001,-79.3746717,,
+node,13137052024,Chatime,43.6381237,-79.4178132,bubble_tea,Chatime
+node,13141903741,Roozamoon Cafe,43.6560697,-79.3628961,,
+node,13142470718,Tim Hortons,43.6683361,-79.3858143,coffee_shop,Tim Hortons
+node,13146191204,Gong Cha,43.6653651,-79.3845829,bubble_tea,Gong Cha
+node,13149664923,Pauls Coffee,43.6308095,-79.4750715,coffee_shop,
+node,13155049602,,43.6772994,-79.4470831,,
+node,13158025534,The Raspberry Cafe,43.6648451,-79.3412233,,
+node,13164211306,Silhouette Cafe,43.6628641,-79.3513639,,
+node,13174618705,Queen Garden Cafe,43.6593037,-79.3472231,,
+node,13175505705,Amber Kitchen and Coffee,43.6598297,-79.346977,,
+node,13176774257,Isle of Coffee,43.6591044,-79.3482288,,
+node,13181981286,Starbucks,43.6184728,-79.5126441,coffee_shop,Starbucks
+node,13183962950,Mast Coffee,43.6550882,-79.3757908,,
+node,13185151745,Hero Tea,43.6672228,-79.3856945,tea;chinese,
+node,13189705546,ChaHalo,43.6650907,-79.3847941,tea,
+node,13191728476,Kati,43.6631187,-79.3840086,thai;gelato,
+node,13207106086,Sip Smile Repeat,43.6397439,-79.3976195,,
+node,13208823601,Cafe de Flore,43.703615,-79.4124511,,
+node,13208956570,St. Lawrence Juicebar,43.6487666,-79.371556,,
+node,13209000024,L'avenue,43.6434284,-79.3961849,,
+node,13226439585,Mastro Cafe,43.686798,-79.4383325,,
+node,13226691997,Monopol Cafe,43.6794538,-79.3452068,,
+node,13230632178,Pinocho,43.6584866,-79.3820016,ice_cream;crepe;coffee_shop,
+way,28252329,Tim Hortons,43.6604339,-79.5830263,coffee_shop,Tim Hortons
+way,32454867,Tim Hortons,43.7255155,-79.313115,coffee_shop,Tim Hortons
+way,34081979,Tim Hortons,43.6091041,-79.5600558,coffee_shop,Tim Hortons
+way,34582600,Tim Hortons,43.6485786,-79.6056161,coffee_shop,Tim Hortons
+way,57869519,Starbucks,43.6596906,-79.328316,coffee_shop,Starbucks
+way,58361232,Tim Hortons,43.7356578,-79.6047505,coffee_shop,Tim Hortons
+way,58361245,Starbucks,43.7349752,-79.6014633,coffee_shop,Starbucks
+way,58361351,Tim Hortons,43.743473,-79.606186,coffee_shop,Tim Hortons
+way,58646473,Tim Hortons,43.6177507,-79.5394319,coffee_shop,Tim Hortons
+way,59146449,Tim Hortons,43.7715635,-79.320377,coffee_shop,Tim Hortons
+way,59250684,Tim Hortons,43.6265298,-79.528529,coffee_shop,Tim Hortons
+way,59434192,Tim Hortons,43.741552,-79.318948,coffee_shop,Tim Hortons
+way,60429152,Tim Hortons,43.7502017,-79.5529401,coffee_shop,Tim Hortons
+way,62257809,Country Style,43.7400081,-79.5138508,coffee_shop,Country Style
+way,67803154,Tim Hortons,43.6770779,-79.4955087,coffee_shop,Tim Hortons
+way,79245874,Tim Hortons,43.7014297,-79.4638283,coffee_shop,Tim Hortons
+way,87415420,Tim Hortons,43.8326935,-79.266527,coffee_shop,Tim Hortons
+way,96171829,Tim Hortons,43.6708433,-79.4671718,coffee_shop,Tim Hortons
+way,105461483,Baka Cafe,43.6510854,-79.4775646,,
+way,106283391,Caffee Demetre,43.6482137,-79.5086637,,
+way,112414832,Tim Hortons,43.7441755,-79.2159795,coffee_shop,Tim Hortons
+way,112444415,Tim Hortons,43.7374842,-79.3438738,coffee_shop,Tim Hortons
+way,120391618,Tim Hortons,43.6152469,-79.5246947,coffee_shop,Tim Hortons
+way,123979954,Tim Hortons,43.7547495,-79.4432889,coffee_shop,Tim Hortons
+way,131276421,Starbucks,43.7966775,-79.4193835,coffee_shop,Starbucks
+way,132782085,Tim Hortons,43.7680935,-79.4724618,coffee_shop,Tim Hortons
+way,136697940,Tim Hortons,43.774834,-79.334319,coffee_shop,Tim Hortons
+way,174188410,Black Oak Cafe,43.651482,-79.4665515,,
+way,174189760,Tim Hortons,43.6282518,-79.4896096,coffee_shop,Tim Hortons
+way,178178481,Tim Hortons,43.5967423,-79.5249656,coffee_shop,Tim Hortons
+way,180683147,Birds & Beans,43.6139934,-79.4889048,coffee_shop,
+way,182623078,Tim Hortons,43.7265745,-79.2972475,coffee_shop,Tim Hortons
+way,183247635,Tim Hortons,43.7266695,-79.231474,coffee_shop,Tim Hortons
+way,202344043,Tim Hortons,43.7233835,-79.3026565,coffee_shop,Tim Hortons
+way,207362123,Select Bakery,43.6941005,-79.3425005,dessert,
+way,215124543,Tim Hortons,43.7378972,-79.5668854,coffee_shop,Tim Hortons
+way,215499746,Tim Hortons,43.6653813,-79.4750409,coffee_shop,Tim Hortons
+way,218545053,Tim Hortons,43.6653953,-79.4882574,coffee_shop,Tim Hortons
+way,225805457,Tim Hortons,43.7286218,-79.5743145,coffee_shop,Tim Hortons
+way,229095219,Tim Hortons,43.7799274,-79.232462,coffee_shop,Tim Hortons
+way,234058415,Tim Hortons,43.7146585,-79.5936945,coffee_shop,Tim Hortons
+way,234365425,Tim Hortons,43.6647051,-79.3548072,coffee_shop,Tim Hortons
+way,242081665,Tim Hortons,43.7996025,-79.1444985,coffee_shop,Tim Hortons
+way,273270559,Starbucks,43.6534713,-79.451487,coffee_shop,Starbucks
+way,278026416,Tim Hortons,43.7600307,-79.2265013,coffee_shop,Tim Hortons
+way,281825841,Tim Hortons,43.6552955,-79.458704,coffee_shop,Tim Hortons
+way,281846791,Tim Hortons,43.7162695,-79.283289,coffee_shop,Tim Hortons
+way,285734946,Tim Hortons,43.7139091,-79.3357885,coffee_shop,Tim Hortons
+way,285899661,Tim Hortons,43.705845,-79.2520405,coffee_shop,Tim Hortons
+way,289227740,Tim Hortons,43.7336925,-79.2903605,coffee_shop,Tim Hortons
+way,296123013,Coffee Time,43.6648197,-79.458902,coffee_shop,Coffee Time
+way,304447297,Tim Hortons,43.7643444,-79.2911436,coffee_shop,Tim Hortons
+way,305365995,Tim Hortons,43.742002,-79.589652,coffee_shop,Tim Hortons
+way,320465000,Coffee Time,43.773339,-79.272876,coffee_shop,Coffee Time
+way,325311438,Tim Hortons,43.8304689,-79.2758375,coffee_shop,Tim Hortons
+way,326059101,Tim Hortons,43.7350872,-79.533868,coffee_shop,Tim Hortons
+way,326292597,Tim Hortons,43.738972,-79.2389655,coffee_shop,Tim Hortons
+way,328663398,Tim Hortons,43.7527805,-79.314017,coffee_shop,Tim Hortons
+way,331753659,Tim Hortons,43.6804753,-79.4759292,coffee_shop,Tim Hortons
+way,332670498,Coffee Time,43.6670465,-79.4462608,coffee_shop,Coffee Time
+way,335622995,Tim Hortons,43.745522,-79.295242,coffee_shop,Tim Hortons
+way,368778368,Tim Hortons,43.7317453,-79.4602034,coffee_shop,Tim Hortons
+way,391471566,Tim Hortons,43.7268899,-79.2661734,coffee_shop,Tim Hortons
+way,419912446,Tim Hortons,43.8105515,-79.2562377,coffee_shop,Tim Hortons
+way,429673971,Tim Hortons,43.7232029,-79.559323,coffee_shop,Tim Hortons
+way,474924382,Tim Hortons,43.706131,-79.2682255,coffee_shop,Tim Hortons
+way,498412092,Tim Hortons,43.6203284,-79.5545745,coffee_shop,Tim Hortons
+way,523929606,Tim Hortons,43.8231568,-79.2470682,coffee_shop,Tim Hortons
+way,536133000,I Deal Coffee,43.6478667,-79.4204274,coffee_shop,
+way,542858853,Sumach Espresso,43.6580062,-79.3596884,coffee_shop,
+way,576889674,Coffee & All That Jazz,43.6515413,-79.4515378,,
+way,659129263,Tim Hortons,43.7109698,-79.5669027,coffee_shop,Tim Hortons
+way,659427258,Tim Hortons,43.7156155,-79.5067625,coffee_shop,Tim Hortons
+way,659427962,Tim Hortons,43.7227915,-79.509478,coffee_shop,Tim Hortons
+way,660838332,Starbucks,43.70837,-79.249307,coffee_shop,Starbucks
+way,664293084,Tim Hortons,43.6603334,-79.4344029,coffee_shop,Tim Hortons
+way,673997288,Tim Hortons,43.6310674,-79.5537604,coffee_shop,Tim Hortons
+way,675734854,Tim Hortons,43.6918447,-79.5760256,coffee_shop,Tim Hortons
+way,676415517,Tim Hortons,43.7507175,-79.5853193,coffee_shop,Tim Hortons
+way,677775429,McCormick Park Cafe,43.6470795,-79.4336387,sandwich;coffee_shop,
+way,678158216,Starbucks,43.6534039,-79.4265046,coffee_shop,Starbucks
+way,727845801,Tim Hortons,43.6496084,-79.4243716,coffee_shop,Tim Hortons
+way,804367158,Vista Eatery,43.6276893,-79.4129012,,
+way,807750021,Tim Hortons,43.7368309,-79.4343025,coffee_shop,Tim Hortons
+way,860823186,Tim Hortons,43.826605,-79.2762321,coffee_shop,Tim Hortons
+way,991301932,CoCo Fresh Tea & Juice,43.7258151,-79.341702,bubble_tea,CoCo
+way,1079642402,Starbucks,43.6379991,-79.3998656,coffee_shop,Starbucks
+way,1161220625,Woolshed Coffee,43.6436373,-79.4116832,coffee_shop,
+way,1206414594,Tim Hortons,43.7580602,-79.5200805,coffee_shop,Tim Hortons
+way,1229816856,Tim Hortons,43.7784648,-79.3441482,coffee_shop,Tim Hortons
+way,1229816858,Real Fruit Bubble Tea,43.7784177,-79.3442773,bubble_tea,Real Fruit Bubble Tea
+way,1229832500,Machi machi,43.7773776,-79.3445933,bubble_tea,machi machi
