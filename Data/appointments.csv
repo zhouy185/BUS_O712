@@ -1,4 +1,4 @@
-AppointmentID,Gender,AppointmentDOW,LeadTime,Age,SMS_received,No-show
+AppointmentID,Gender,AppointmentDOW,LeadTime,Age,SMS_received,NoShow
 5756417,F,Wednesday,0,20,1,No
 5523159,F,Tuesday,35,37,0,No
 5693080,F,Friday,8,38,1,Yes
